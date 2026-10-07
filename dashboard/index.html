@@ -1569,24 +1569,36 @@ function sentimentSectionHTML(symbol, sentiment){
   const finbertRow = sentiment.finbert_available
     ? `<div class="dc-stat-row"><span class="label">FinBERT (independent model)</span><span class="value" style="color:${scoreColor(sentiment.finbert_score)}">${sentiment.finbert_label} (${sentiment.finbert_score.toFixed(2)})</span></div>`
     : `<div class="dc-stat-row"><span class="label">FinBERT (independent model)</span><span class="value" style="color:var(--muted);font-weight:400;">not run &mdash; optional, needs <code>--finbert</code></span></div>`;
+  const demoBanner = sentiment.is_demo
+    ? `<div style="background:#fff3cd;color:#7a5b00;padding:10px 14px;border-radius:10px;font-weight:700;font-size:12px;margin-bottom:16px;">⚠ DEMO DATA — placeholder only, not real headlines or a real score for ${symbol}. Shown to illustrate the populated layout; see the note below for how to fetch real sentiment.</div>`
+    : '';
+  const headlinesHTML = sentiment.is_demo
+    ? sentiment.articles.slice(0,8).map(a => `
+        <div class="headline-row" style="cursor:default;">
+          <span class="headline-title">${a.title}</span>
+          <span class="headline-meta"><span>${a.source||''}</span></span>
+        </div>`).join('')
+    : sentiment.articles.slice(0,8).map(a => `
+        <a class="headline-row" href="${a.url}" target="_blank" rel="noopener noreferrer">
+          <span class="headline-title">${a.title}</span>
+          <span class="headline-meta">
+            <span>${a.source||''}${a.time_published ? ' · '+fmtArticleDate(a.time_published) : ''}</span>
+            <span class="headline-score" style="color:${scoreColor(a.score)}">${a.score>=0?'+':''}${a.score.toFixed(2)}</span>
+          </span>
+        </a>`).join('');
   return `
     <div class="detail-subhead">News sentiment</div>
     <div class="detail-card" style="max-width:640px;">
+      ${demoBanner}
       <div class="dc-stat-block" style="border-top:none;margin-top:0;">
         <div class="dc-stat-row"><span class="label">Alpha Vantage aggregate (${sentiment.n_articles} recent articles)</span><span class="value" style="color:${scoreColor(sentiment.score)}">${sentiment.label} (${sentiment.score.toFixed(2)})</span></div>
         ${finbertRow}
       </div>
-      <div class="detail-subhead" style="font-size:14px;margin:20px 0 6px;max-width:none;">Recent headlines</div>
+      <div class="detail-subhead" style="font-size:14px;margin:20px 0 6px;max-width:none;">${sentiment.is_demo ? 'Placeholder headlines' : 'Recent headlines'}</div>
       <div class="headline-list">
-        ${sentiment.articles.slice(0,8).map(a => `
-          <a class="headline-row" href="${a.url}" target="_blank" rel="noopener noreferrer">
-            <span class="headline-title">${a.title}</span>
-            <span class="headline-meta">
-              <span>${a.source||''}${a.time_published ? ' · '+fmtArticleDate(a.time_published) : ''}</span>
-              <span class="headline-score" style="color:${scoreColor(a.score)}">${a.score>=0?'+':''}${a.score.toFixed(2)}</span>
-            </span>
-          </a>`).join('')}
+        ${headlinesHTML}
       </div>
+      ${sentiment.is_demo ? `<p style="color:var(--muted);font-size:12px;margin-top:14px;">Real sentiment isn't cached for ${symbol} — fetch it with <code>python -m src.sentiment --symbols ${symbol} --api_key YOUR_KEY</code> (Alpha Vantage's own news endpoint, free tier permitting).</p>` : ''}
     </div>`;
 }
 
