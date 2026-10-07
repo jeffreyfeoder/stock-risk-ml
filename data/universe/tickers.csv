@@ -1,0 +1,1004 @@
+ticker,raw_symbol,name,sector,industry,market
+MMM,MMM,3M,Industrials,Industrial Conglomerates,US
+AOS,AOS,A. O. Smith,Industrials,Building Products,US
+ABT,ABT,Abbott Laboratories,Health Care,Health Care Equipment,US
+ABBV,ABBV,AbbVie,Health Care,Biotechnology,US
+ACN,ACN,Accenture,Information Technology,IT Consulting & Other Services,US
+ADBE,ADBE,Adobe Inc.,Information Technology,Application Software,US
+AMD,AMD,Advanced Micro Devices,Information Technology,Semiconductors,US
+AES,AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,US
+AFL,AFL,Aflac,Financials,Life & Health Insurance,US
+A,A,Agilent Technologies,Health Care,Life Sciences Tools & Services,US
+APD,APD,Air Products,Materials,Industrial Gases,US
+ABNB,ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+AKAM,AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,US
+ALB,ALB,Albemarle Corporation,Materials,Specialty Chemicals,US
+ARE,ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,US
+ALGN,ALGN,Align Technology,Health Care,Health Care Supplies,US
+ALLE,ALLE,Allegion,Industrials,Building Products,US
+LNT,LNT,Alliant Energy,Utilities,Electric Utilities,US
+ALL,ALL,Allstate,Financials,Property & Casualty Insurance,US
+GOOGL,GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,US
+GOOG,GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,US
+MO,MO,Altria,Consumer Staples,Tobacco,US
+AMZN,AMZN,Amazon,Consumer Discretionary,Broadline Retail,US
+AMCR,AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,US
+AEE,AEE,Ameren,Utilities,Multi-Utilities,US
+AEP,AEP,American Electric Power,Utilities,Electric Utilities,US
+AXP,AXP,American Express,Financials,Consumer Finance,US
+AIG,AIG,American International Group,Financials,Multi-line Insurance,US
+AMT,AMT,American Tower,Real Estate,Telecom Tower REITs,US
+AWK,AWK,American Water Works,Utilities,Water Utilities,US
+AMP,AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,US
+AME,AME,Ametek,Industrials,Electrical Components & Equipment,US
+AMGN,AMGN,Amgen,Health Care,Biotechnology,US
+APH,APH,Amphenol,Information Technology,Electronic Components,US
+ADI,ADI,Analog Devices,Information Technology,Semiconductors,US
+AON,AON,Aon plc,Financials,Insurance Brokers,US
+APA,APA,APA Corporation,Energy,Oil & Gas Exploration & Production,US
+APO,APO,Apollo Global Management,Financials,Asset Management & Custody Banks,US
+AAPL,AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",US
+AMAT,AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,US
+APP,APP,AppLovin,Communication Services,Advertising,US
+APTV,APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,US
+ACGL,ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,US
+ADM,ADM,Archer Daniels Midland,Consumer Staples,Agricultural Products & Services,US
+ARES,ARES,Ares Management,Financials,Asset Management & Custody Banks,US
+ANET,ANET,Arista Networks,Information Technology,Communications Equipment,US
+AJG,AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,US
+AIZ,AIZ,Assurant,Financials,Multi-line Insurance,US
+T,T,AT&T,Communication Services,Integrated Telecommunication Services,US
+ATO,ATO,Atmos Energy,Utilities,Gas Utilities,US
+ADSK,ADSK,Autodesk,Information Technology,Application Software,US
+ADP,ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,US
+AZO,AZO,AutoZone,Consumer Discretionary,Automotive Retail,US
+AVB,AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,US
+AVY,AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,US
+AXON,AXON,Axon Enterprise,Industrials,Aerospace & Defense,US
+BKR,BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,US
+BALL,BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",US
+BAC,BAC,Bank of America,Financials,Diversified Banks,US
+BAX,BAX,Baxter International,Health Care,Health Care Equipment,US
+BDX,BDX,Becton Dickinson,Health Care,Health Care Equipment,US
+BRK-B,BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,US
+BBY,BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,US
+TECH,TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,US
+BIIB,BIIB,Biogen,Health Care,Biotechnology,US
+BLK,BLK,BlackRock,Financials,Asset Management & Custody Banks,US
+BX,BX,Blackstone Inc.,Financials,Asset Management & Custody Banks,US
+XYZ,XYZ,"Block, Inc.",Financials,Transaction & Payment Processing Services,US
+BNY,BNY,BNY Mellon,Financials,Asset Management & Custody Banks,US
+BA,BA,Boeing,Industrials,Aerospace & Defense,US
+BKNG,BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+BSX,BSX,Boston Scientific,Health Care,Health Care Equipment,US
+BMY,BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,US
+AVGO,AVGO,Broadcom,Information Technology,Semiconductors,US
+BR,BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,US
+BRO,BRO,Brown & Brown,Financials,Insurance Brokers,US
+BF-B,BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,US
+BLDR,BLDR,Builders FirstSource,Industrials,Building Products,US
+BG,BG,Bunge Global,Consumer Staples,Agricultural Products & Services,US
+BXP,BXP,"BXP, Inc.",Real Estate,Office REITs,US
+CHRW,CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,US
+CDNS,CDNS,Cadence Design Systems,Information Technology,Application Software,US
+CPT,CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,US
+COF,COF,Capital One,Financials,Consumer Finance,US
+CAH,CAH,Cardinal Health,Health Care,Health Care Distributors,US
+CCL,CCL,Carnival Corporation,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+CARR,CARR,Carrier Global,Industrials,Building Products,US
+CVNA,CVNA,Carvana,Consumer Discretionary,Automotive Retail,US
+CASY,CASY,Casey's,Consumer Staples,Food Retail,US
+CAT,CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,US
+CBOE,CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,US
+CBRE,CBRE,CBRE Group,Real Estate,Real Estate Services,US
+CDW,CDW,CDW Corporation,Information Technology,Technology Distributors,US
+COR,COR,Cencora,Health Care,Health Care Distributors,US
+CNC,CNC,Centene Corporation,Health Care,Managed Health Care,US
+CNP,CNP,CenterPoint Energy,Utilities,Multi-Utilities,US
+CF,CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,US
+CRL,CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,US
+SCHW,SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,US
+CHTR,CHTR,Charter Communications,Communication Services,Cable & Satellite,US
+CVX,CVX,Chevron Corporation,Energy,Integrated Oil & Gas,US
+CMG,CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,US
+CB,CB,Chubb Limited,Financials,Property & Casualty Insurance,US
+CHD,CHD,Church & Dwight,Consumer Staples,Household Products,US
+CIEN,CIEN,Ciena,Information Technology,Communications Equipment,US
+CI,CI,Cigna,Health Care,Health Care Services,US
+CINF,CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,US
+CTAS,CTAS,Cintas,Industrials,Diversified Support Services,US
+CSCO,CSCO,Cisco,Information Technology,Communications Equipment,US
+C,C,Citigroup,Financials,Diversified Banks,US
+CFG,CFG,Citizens Financial Group,Financials,Regional Banks,US
+CLX,CLX,Clorox,Consumer Staples,Household Products,US
+CME,CME,CME Group,Financials,Financial Exchanges & Data,US
+CMS,CMS,CMS Energy,Utilities,Multi-Utilities,US
+KO,KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,US
+CTSH,CTSH,Cognizant,Information Technology,IT Consulting & Other Services,US
+COHR,COHR,Coherent Corp.,Information Technology,Electronic Components,US
+COIN,COIN,Coinbase,Financials,Financial Exchanges & Data,US
+CL,CL,Colgate-Palmolive,Consumer Staples,Household Products,US
+CMCSA,CMCSA,Comcast,Communication Services,Cable & Satellite,US
+FIX,FIX,Comfort Systems USA,Industrials,Construction & Engineering,US
+COP,COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,US
+ED,ED,Consolidated Edison,Utilities,Multi-Utilities,US
+STZ,STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,US
+CEG,CEG,Constellation Energy,Utilities,Electric Utilities,US
+COO,COO,Cooper Companies (The),Health Care,Health Care Supplies,US
+CPRT,CPRT,Copart,Industrials,Diversified Support Services,US
+GLW,GLW,Corning Inc.,Information Technology,Electronic Components,US
+CPAY,CPAY,Corpay,Financials,Transaction & Payment Processing Services,US
+CTVA,CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,US
+CSGP,CSGP,CoStar Group,Real Estate,Real Estate Services,US
+COST,COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,US
+CRH,CRH,CRH plc,Materials,Construction Materials,US
+CRWD,CRWD,CrowdStrike,Information Technology,Systems Software,US
+CCI,CCI,Crown Castle,Real Estate,Telecom Tower REITs,US
+CSX,CSX,CSX Corporation,Industrials,Rail Transportation,US
+CMI,CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,US
+CVS,CVS,CVS Health,Health Care,Health Care Services,US
+DHR,DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,US
+DRI,DRI,Darden Restaurants,Consumer Discretionary,Restaurants,US
+DDOG,DDOG,Datadog,Information Technology,Application Software,US
+DVA,DVA,DaVita,Health Care,Health Care Services,US
+DECK,DECK,Deckers Brands,Consumer Discretionary,Footwear,US
+DE,DE,Deere & Company,Industrials,Agricultural & Farm Machinery,US
+DELL,DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",US
+DAL,DAL,Delta Air Lines,Industrials,Passenger Airlines,US
+DVN,DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,US
+DXCM,DXCM,Dexcom,Health Care,Health Care Equipment,US
+FANG,FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,US
+DLR,DLR,Digital Realty,Real Estate,Data Center REITs,US
+DG,DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,US
+DLTR,DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,US
+D,D,Dominion Energy,Utilities,Multi-Utilities,US
+DPZ,DPZ,Domino's,Consumer Discretionary,Restaurants,US
+DASH,DASH,DoorDash,Consumer Discretionary,Specialized Consumer Services,US
+DOV,DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,US
+DOW,DOW,Dow Inc.,Materials,Commodity Chemicals,US
+DHI,DHI,D. R. Horton,Consumer Discretionary,Homebuilding,US
+DTE,DTE,DTE Energy,Utilities,Multi-Utilities,US
+DUK,DUK,Duke Energy,Utilities,Electric Utilities,US
+DD,DD,DuPont,Industrials,Industrial Conglomerates,US
+ETN,ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,US
+EBAY,EBAY,eBay Inc.,Consumer Discretionary,Broadline Retail,US
+ECHO,ECHO,EchoStar,Communication Services,Wireless Telecommunication Services,US
+ECL,ECL,Ecolab,Materials,Specialty Chemicals,US
+EIX,EIX,Edison International,Utilities,Electric Utilities,US
+EW,EW,Edwards Lifesciences,Health Care,Health Care Equipment,US
+ELV,ELV,Elevance Health,Health Care,Managed Health Care,US
+EME,EME,Emcor,Industrials,Construction & Engineering,US
+EMR,EMR,Emerson Electric,Industrials,Electrical Components & Equipment,US
+ETR,ETR,Entergy,Utilities,Electric Utilities,US
+EOG,EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,US
+EQT,EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,US
+EFX,EFX,Equifax,Industrials,Research & Consulting Services,US
+EQIX,EQIX,Equinix,Real Estate,Data Center REITs,US
+EQR,EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,US
+ERIE,ERIE,Erie Indemnity,Financials,Insurance Brokers,US
+ESS,ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,US
+EL,EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,US
+EG,EG,Everest Group,Financials,Reinsurance,US
+EVRG,EVRG,Evergy,Utilities,Electric Utilities,US
+ES,ES,Eversource Energy,Utilities,Electric Utilities,US
+EXC,EXC,Exelon,Utilities,Electric Utilities,US
+EXE,EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,US
+EXPE,EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+EXPD,EXPD,Expeditors International,Industrials,Air Freight & Logistics,US
+EXR,EXR,Extra Space Storage,Real Estate,Self-Storage REITs,US
+XOM,XOM,ExxonMobil,Energy,Integrated Oil & Gas,US
+FFIV,FFIV,"F5, Inc.",Information Technology,Communications Equipment,US
+FDS,FDS,FactSet,Financials,Financial Exchanges & Data,US
+FICO,FICO,Fair Isaac,Information Technology,Application Software,US
+FAST,FAST,Fastenal,Industrials,Trading Companies & Distributors,US
+FRT,FRT,Federal Realty Investment Trust,Real Estate,Retail REITs,US
+FDX,FDX,FedEx,Industrials,Air Freight & Logistics,US
+FDXF,FDXF,FedEx Freight,Industrials,Cargo Ground Transportation,US
+FERG,FERG,Ferguson Enterprises,Industrials,Building Products,US
+FIS,FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,US
+FITB,FITB,Fifth Third Bancorp,Financials,Regional Banks,US
+FSLR,FSLR,First Solar,Information Technology,Semiconductors,US
+FE,FE,FirstEnergy,Utilities,Electric Utilities,US
+FISV,FISV,Fiserv,Financials,Transaction & Payment Processing Services,US
+FLEX,FLEX,Flex Ltd.,Information Technology,Electronic Manufacturing Services,US
+F,F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,US
+FTNT,FTNT,Fortinet,Information Technology,Systems Software,US
+FTV,FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,US
+FOXA,FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,US
+FOX,FOX,Fox Corporation (Class B),Communication Services,Broadcasting,US
+BEN,BEN,Franklin Resources,Financials,Asset Management & Custody Banks,US
+FCX,FCX,Freeport-McMoRan,Materials,Copper,US
+GRMN,GRMN,Garmin,Consumer Discretionary,Consumer Electronics,US
+IT,IT,Gartner,Information Technology,IT Consulting & Other Services,US
+GE,GE,GE Aerospace,Industrials,Aerospace & Defense,US
+GEHC,GEHC,GE HealthCare,Health Care,Health Care Equipment,US
+GEV,GEV,GE Vernova,Industrials,Heavy Electrical Equipment,US
+GEN,GEN,Gen Digital,Information Technology,Systems Software,US
+GNRC,GNRC,Generac,Industrials,Heavy Electrical Equipment,US
+GD,GD,General Dynamics,Industrials,Aerospace & Defense,US
+GIS,GIS,General Mills,Consumer Staples,Packaged Foods & Meats,US
+GM,GM,General Motors,Consumer Discretionary,Automobile Manufacturers,US
+GPC,GPC,Genuine Parts Company,Consumer Discretionary,Distributors,US
+GILD,GILD,Gilead Sciences,Health Care,Biotechnology,US
+GPN,GPN,Global Payments,Financials,Transaction & Payment Processing Services,US
+GL,GL,Globe Life,Financials,Life & Health Insurance,US
+GDDY,GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure,US
+GS,GS,Goldman Sachs,Financials,Investment Banking & Brokerage,US
+HAL,HAL,Halliburton,Energy,Oil & Gas Equipment & Services,US
+HIG,HIG,Hartford (The),Financials,Property & Casualty Insurance,US
+HAS,HAS,Hasbro,Consumer Discretionary,Leisure Products,US
+HCA,HCA,HCA Healthcare,Health Care,Health Care Facilities,US
+DOC,DOC,Healthpeak Properties,Real Estate,Health Care REITs,US
+HSIC,HSIC,Henry Schein,Health Care,Health Care Distributors,US
+HSY,HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,US
+HPE,HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",US
+HLT,HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+HD,HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,US
+HONA,HONA,Honeywell Aerospace,Industrials,Aerospace & Defense,US
+HON,HON,Honeywell Technologies,Industrials,Industrial Conglomerates,US
+HRL,HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,US
+HST,HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,US
+HWM,HWM,Howmet Aerospace,Industrials,Aerospace & Defense,US
+HPQ,HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",US
+HUBB,HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,US
+HUM,HUM,Humana,Health Care,Managed Health Care,US
+HBAN,HBAN,Huntington Bancshares,Financials,Regional Banks,US
+HII,HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,US
+IBM,IBM,IBM,Information Technology,IT Consulting & Other Services,US
+IEX,IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,US
+IDXX,IDXX,Idexx Laboratories,Health Care,Health Care Equipment,US
+ITW,ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,US
+INCY,INCY,Incyte,Health Care,Biotechnology,US
+IR,IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,US
+PODD,PODD,Insulet Corporation,Health Care,Health Care Equipment,US
+INTC,INTC,Intel,Information Technology,Semiconductors,US
+IBKR,IBKR,Interactive Brokers,Financials,Investment Banking & Brokerage,US
+ICE,ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,US
+IFF,IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,US
+IP,IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,US
+INTU,INTU,Intuit,Information Technology,Application Software,US
+ISRG,ISRG,Intuitive Surgical,Health Care,Health Care Equipment,US
+IVZ,IVZ,Invesco,Financials,Asset Management & Custody Banks,US
+INVH,INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,US
+IQV,IQV,IQVIA,Health Care,Life Sciences Tools & Services,US
+IRM,IRM,Iron Mountain,Real Estate,Other Specialized REITs,US
+JBHT,JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,US
+JBL,JBL,Jabil,Information Technology,Electronic Manufacturing Services,US
+JKHY,JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,US
+J,J,Jacobs Solutions,Industrials,Construction & Engineering,US
+JNJ,JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,US
+JCI,JCI,Johnson Controls,Industrials,Building Products,US
+JPM,JPM,JPMorgan Chase,Financials,Diversified Banks,US
+KVUE,KVUE,Kenvue,Consumer Staples,Personal Care Products,US
+KDP,KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,US
+KEY,KEY,KeyCorp,Financials,Regional Banks,US
+KEYS,KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,US
+KMB,KMB,Kimberly-Clark,Consumer Staples,Household Products,US
+KIM,KIM,Kimco Realty,Real Estate,Retail REITs,US
+KMI,KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,US
+KKR,KKR,KKR & Co.,Financials,Asset Management & Custody Banks,US
+KLAC,KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,US
+KHC,KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,US
+KR,KR,Kroger,Consumer Staples,Food Retail,US
+LHX,LHX,L3Harris,Industrials,Aerospace & Defense,US
+LH,LH,Labcorp,Health Care,Health Care Services,US
+LRCX,LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,US
+LVS,LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,US
+LDOS,LDOS,Leidos,Industrials,Diversified Support Services,US
+LEN,LEN,Lennar,Consumer Discretionary,Homebuilding,US
+LII,LII,Lennox International,Industrials,Building Products,US
+LLY,LLY,Lilly (Eli),Health Care,Pharmaceuticals,US
+LIN,LIN,Linde plc,Materials,Industrial Gases,US
+LYV,LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,US
+LMT,LMT,Lockheed Martin,Industrials,Aerospace & Defense,US
+L,L,Loews Corporation,Financials,Multi-line Insurance,US
+LOW,LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,US
+LULU,LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",US
+LITE,LITE,Lumentum,Information Technology,Communications Equipment,US
+LYB,LYB,LyondellBasell,Materials,Specialty Chemicals,US
+MTB,MTB,M&T Bank,Financials,Regional Banks,US
+MPC,MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,US
+MAR,MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+MRSH,MRSH,Marsh McLennan,Financials,Insurance Brokers,US
+MLM,MLM,Martin Marietta Materials,Materials,Construction Materials,US
+MRVL,MRVL,Marvell Technology,Information Technology,Semiconductors,US
+MAS,MAS,Masco,Industrials,Building Products,US
+MA,MA,Mastercard,Financials,Transaction & Payment Processing Services,US
+MKC,MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,US
+MCD,MCD,McDonald's,Consumer Discretionary,Restaurants,US
+MCK,MCK,McKesson Corporation,Health Care,Health Care Distributors,US
+MDT,MDT,Medtronic,Health Care,Health Care Equipment,US
+MRK,MRK,Merck & Co.,Health Care,Pharmaceuticals,US
+META,META,Meta Platforms,Communication Services,Interactive Media & Services,US
+MET,MET,MetLife,Financials,Life & Health Insurance,US
+MTD,MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,US
+MGM,MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,US
+MCHP,MCHP,Microchip Technology,Information Technology,Semiconductors,US
+MU,MU,Micron Technology,Information Technology,Semiconductors,US
+MSFT,MSFT,Microsoft,Information Technology,Systems Software,US
+MAA,MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,US
+MRNA,MRNA,Moderna,Health Care,Biotechnology,US
+TAP,TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,US
+MDLZ,MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,US
+MPWR,MPWR,Monolithic Power Systems,Information Technology,Semiconductors,US
+MNST,MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,US
+MCO,MCO,Moody's Corporation,Financials,Financial Exchanges & Data,US
+MS,MS,Morgan Stanley,Financials,Investment Banking & Brokerage,US
+MOS,MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,US
+MSI,MSI,Motorola Solutions,Information Technology,Communications Equipment,US
+MSCI,MSCI,MSCI,Financials,Financial Exchanges & Data,US
+NDAQ,NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,US
+NTAP,NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",US
+NFLX,NFLX,Netflix,Communication Services,Movies & Entertainment,US
+NEM,NEM,Newmont,Materials,Gold,US
+NWSA,NWSA,News Corp (Class A),Communication Services,Publishing,US
+NWS,NWS,News Corp (Class B),Communication Services,Publishing,US
+NEE,NEE,NextEra Energy,Utilities,Multi-Utilities,US
+NKE,NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",US
+NI,NI,NiSource,Utilities,Multi-Utilities,US
+NDSN,NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,US
+NSC,NSC,Norfolk Southern,Industrials,Rail Transportation,US
+NTRS,NTRS,Northern Trust,Financials,Asset Management & Custody Banks,US
+NOC,NOC,Northrop Grumman,Industrials,Aerospace & Defense,US
+NCLH,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+NRG,NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,US
+NUE,NUE,Nucor,Materials,Steel,US
+NVDA,NVDA,Nvidia,Information Technology,Semiconductors,US
+NVR,NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,US
+NXPI,NXPI,NXP Semiconductors,Information Technology,Semiconductors,US
+ORLY,ORLY,O'Reilly Automotive,Consumer Discretionary,Automotive Retail,US
+OXY,OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,US
+ODFL,ODFL,Old Dominion,Industrials,Cargo Ground Transportation,US
+OMC,OMC,Omnicom Group,Communication Services,Advertising,US
+ON,ON,ON Semiconductor,Information Technology,Semiconductors,US
+OKE,OKE,Oneok,Energy,Oil & Gas Storage & Transportation,US
+ORCL,ORCL,Oracle Corporation,Information Technology,Application Software,US
+OTIS,OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,US
+PCAR,PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,US
+PKG,PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,US
+PLTR,PLTR,Palantir Technologies,Information Technology,Application Software,US
+PANW,PANW,Palo Alto Networks,Information Technology,Systems Software,US
+PSKY,PSKY,Paramount Skydance Corporation,Communication Services,Movies & Entertainment,US
+PH,PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,US
+PAYX,PAYX,Paychex,Industrials,Human Resource & Employment Services,US
+PYPL,PYPL,PayPal,Financials,Transaction & Payment Processing Services,US
+PNR,PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,US
+PEP,PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,US
+PFE,PFE,Pfizer,Health Care,Pharmaceuticals,US
+PCG,PCG,PG&E Corporation,Utilities,Multi-Utilities,US
+PM,PM,Philip Morris International,Consumer Staples,Tobacco,US
+PSX,PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,US
+PNW,PNW,Pinnacle West Capital,Utilities,Multi-Utilities,US
+PNC,PNC,PNC Financial Services,Financials,Diversified Banks,US
+PPG,PPG,PPG Industries,Materials,Specialty Chemicals,US
+PPL,PPL,PPL Corporation,Utilities,Electric Utilities,US
+PFG,PFG,Principal Financial Group,Financials,Life & Health Insurance,US
+PG,PG,Procter & Gamble,Consumer Staples,Personal Care Products,US
+PGR,PGR,Progressive Corporation,Financials,Property & Casualty Insurance,US
+PLD,PLD,Prologis,Real Estate,Industrial REITs,US
+PRU,PRU,Prudential Financial,Financials,Life & Health Insurance,US
+PEG,PEG,Public Service Enterprise Group,Utilities,Electric Utilities,US
+PTC,PTC,PTC Inc.,Information Technology,Application Software,US
+PSA,PSA,Public Storage,Real Estate,Self-Storage REITs,US
+PHM,PHM,PulteGroup,Consumer Discretionary,Homebuilding,US
+PWR,PWR,Quanta Services,Industrials,Construction & Engineering,US
+QCOM,QCOM,Qualcomm,Information Technology,Semiconductors,US
+DGX,DGX,Quest Diagnostics,Health Care,Health Care Services,US
+Q,Q,Qnity Electronics,Information Technology,Semiconductor Materials & Equipment,US
+RL,RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",US
+RJF,RJF,Raymond James Financial,Financials,Investment Banking & Brokerage,US
+RTX,RTX,RTX Corporation,Industrials,Aerospace & Defense,US
+O,O,Realty Income,Real Estate,Retail REITs,US
+REG,REG,Regency Centers,Real Estate,Retail REITs,US
+REGN,REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,US
+RF,RF,Regions Financial Corporation,Financials,Regional Banks,US
+RSG,RSG,Republic Services,Industrials,Environmental & Facilities Services,US
+RMD,RMD,ResMed|,Health Care,Health Care Equipment,US
+RVTY,RVTY,Revvity,Health Care,Health Care Equipment,US
+HOOD,HOOD,Robinhood Markets,Financials,Investment Banking & Brokerage,US
+ROK,ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,US
+ROL,ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,US
+ROP,ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,US
+ROST,ROST,Ross Stores,Consumer Discretionary,Apparel Retail,US
+RCL,RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",US
+SPGI,SPGI,S&P Global,Financials,Financial Exchanges & Data,US
+CRM,CRM,Salesforce,Information Technology,Application Software,US
+SNDK,SNDK,Sandisk,Information Technology,"Technology Hardware, Storage & Peripherals",US
+SBAC,SBAC,SBA Communications,Real Estate,Telecom Tower REITs,US
+SLB,SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,US
+STX,STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",US
+SRE,SRE,Sempra,Utilities,Multi-Utilities,US
+NOW,NOW,ServiceNow,Information Technology,Systems Software,US
+SHW,SHW,Sherwin-Williams,Materials,Specialty Chemicals,US
+SPG,SPG,Simon Property Group,Real Estate,Retail REITs,US
+SWKS,SWKS,Skyworks Solutions,Information Technology,Semiconductors,US
+SJM,SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,US
+SW,SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,US
+SNA,SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,US
+SOLV,SOLV,Solventum,Health Care,Health Care Technology,US
+SO,SO,Southern Company,Utilities,Electric Utilities,US
+LUV,LUV,Southwest Airlines,Industrials,Passenger Airlines,US
+SWK,SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,US
+SBUX,SBUX,Starbucks,Consumer Discretionary,Restaurants,US
+STT,STT,State Street Corporation,Financials,Asset Management & Custody Banks,US
+STLD,STLD,Steel Dynamics,Materials,Steel,US
+STE,STE,Steris,Health Care,Health Care Equipment,US
+SYK,SYK,Stryker Corporation,Health Care,Health Care Equipment,US
+SMCI,SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",US
+SYF,SYF,Synchrony Financial,Financials,Consumer Finance,US
+SNPS,SNPS,Synopsys,Information Technology,Application Software,US
+SYY,SYY,Sysco,Consumer Staples,Food Distributors,US
+TMUS,TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,US
+TROW,TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,US
+TTWO,TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,US
+TPR,TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",US
+TRGP,TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,US
+TGT,TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,US
+TEL,TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,US
+TDY,TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,US
+TER,TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,US
+TSLA,TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,US
+TXN,TXN,Texas Instruments,Information Technology,Semiconductors,US
+TPL,TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,US
+TXT,TXT,Textron,Industrials,Aerospace & Defense,US
+TMO,TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,US
+TJX,TJX,TJX Companies,Consumer Discretionary,Apparel Retail,US
+TKO,TKO,TKO Group Holdings,Communication Services,Movies & Entertainment,US
+TTD,TTD,Trade Desk (The),Communication Services,Advertising,US
+TSCO,TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,US
+TT,TT,Trane Technologies,Industrials,Building Products,US
+TDG,TDG,TransDigm Group,Industrials,Aerospace & Defense,US
+TRV,TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,US
+TRMB,TRMB,Trimble Inc.,Information Technology,Application Software,US
+TFC,TFC,Truist Financial,Financials,Diversified Banks,US
+TYL,TYL,Tyler Technologies,Information Technology,Application Software,US
+TSN,TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,US
+USB,USB,U.S. Bancorp,Financials,Diversified Banks,US
+UBER,UBER,Uber,Industrials,Passenger Ground Transportation,US
+UDR,UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,US
+ULTA,ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,US
+UNP,UNP,Union Pacific Corporation,Industrials,Rail Transportation,US
+UAL,UAL,United Airlines Holdings,Industrials,Passenger Airlines,US
+UPS,UPS,United Parcel Service,Industrials,Air Freight & Logistics,US
+URI,URI,United Rentals,Industrials,Trading Companies & Distributors,US
+UNH,UNH,UnitedHealth Group,Health Care,Managed Health Care,US
+UHS,UHS,Universal Health Services,Health Care,Health Care Facilities,US
+VLO,VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,US
+VEEV,VEEV,Veeva Systems,Health Care,Health Care Technology,US
+VTR,VTR,Ventas,Real Estate,Health Care REITs,US
+VLTO,VLTO,Veralto,Industrials,Environmental & Facilities Services,US
+VRSN,VRSN,Verisign,Information Technology,Internet Services & Infrastructure,US
+VRSK,VRSK,Verisk Analytics,Industrials,Research & Consulting Services,US
+VZ,VZ,Verizon,Communication Services,Integrated Telecommunication Services,US
+VRTX,VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,US
+VRT,VRT,Vertiv,Industrials,Electrical Components & Equipment,US
+VTRS,VTRS,Viatris,Health Care,Pharmaceuticals,US
+VICI,VICI,Vici Properties,Real Estate,Hotel & Resort REITs,US
+V,V,Visa Inc.,Financials,Transaction & Payment Processing Services,US
+VST,VST,Vistra Corp.,Utilities,Electric Utilities,US
+VMC,VMC,Vulcan Materials Company,Materials,Construction Materials,US
+WRB,WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,US
+GWW,GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,US
+WAB,WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,US
+WMT,WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,US
+DIS,DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,US
+WBD,WBD,Warner Bros. Discovery,Communication Services,Broadcasting,US
+WM,WM,Waste Management,Industrials,Environmental & Facilities Services,US
+WAT,WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,US
+WEC,WEC,WEC Energy Group,Utilities,Electric Utilities,US
+WFC,WFC,Wells Fargo,Financials,Diversified Banks,US
+WELL,WELL,Welltower,Real Estate,Health Care REITs,US
+WST,WST,West Pharmaceutical Services,Health Care,Health Care Supplies,US
+WDC,WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",US
+WY,WY,Weyerhaeuser,Real Estate,Timber REITs,US
+WSM,WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Homefurnishing Retail,US
+WMB,WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,US
+WTW,WTW,Willis Towers Watson,Financials,Insurance Brokers,US
+WDAY,WDAY,"Workday, Inc.",Information Technology,Application Software,US
+WYNN,WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,US
+XEL,XEL,Xcel Energy,Utilities,Multi-Utilities,US
+XYL,XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,US
+YUM,YUM,Yum! Brands,Consumer Discretionary,Restaurants,US
+ZBRA,ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,US
+ZBH,ZBH,Zimmer Biomet,Health Care,Health Care Equipment,US
+ZTS,ZTS,Zoetis,Health Care,Pharmaceuticals,US
+360ONE.NS,360ONE,360 ONE WAM Ltd.,Financial Services,Financial Services,India
+3MINDIA.NS,3MINDIA,3M India Ltd.,Diversified,Diversified,India
+ABB.NS,ABB,ABB India Ltd.,Capital Goods,Capital Goods,India
+ACC.NS,ACC,ACC Ltd.,Construction Materials,Construction Materials,India
+ACMESOLAR.NS,ACMESOLAR,ACME Solar Holdings Ltd.,Power,Power,India
+AIAENG.NS,AIAENG,AIA Engineering Ltd.,Capital Goods,Capital Goods,India
+APLAPOLLO.NS,APLAPOLLO,APL Apollo Tubes Ltd.,Capital Goods,Capital Goods,India
+AUBANK.NS,AUBANK,AU Small Finance Bank Ltd.,Financial Services,Financial Services,India
+AWL.NS,AWL,AWL Agri Business Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+AADHARHFC.NS,AADHARHFC,Aadhar Housing Finance Ltd.,Financial Services,Financial Services,India
+AARTIIND.NS,AARTIIND,Aarti Industries Ltd.,Chemicals,Chemicals,India
+AAVAS.NS,AAVAS,Aavas Financiers Ltd.,Financial Services,Financial Services,India
+ABBOTINDIA.NS,ABBOTINDIA,Abbott India Ltd.,Healthcare,Healthcare,India
+ACE.NS,ACE,Action Construction Equipment Ltd.,Capital Goods,Capital Goods,India
+ACUTAAS.NS,ACUTAAS,Acutaas Chemicals Ltd.,Healthcare,Healthcare,India
+ADANIENSOL.NS,ADANIENSOL,Adani Energy Solutions Ltd.,Power,Power,India
+ADANIENT.NS,ADANIENT,Adani Enterprises Ltd.,Metals & Mining,Metals & Mining,India
+ADANIGREEN.NS,ADANIGREEN,Adani Green Energy Ltd.,Power,Power,India
+ADANIPORTS.NS,ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Services,Services,India
+ADANIPOWER.NS,ADANIPOWER,Adani Power Ltd.,Power,Power,India
+ATGL.NS,ATGL,Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+ABCAPITAL.NS,ABCAPITAL,Aditya Birla Capital Ltd.,Financial Services,Financial Services,India
+ABFRL.NS,ABFRL,Aditya Birla Fashion and Retail Ltd.,Consumer Services,Consumer Services,India
+ABLBL.NS,ABLBL,Aditya Birla Lifestyle Brands Ltd.,Consumer Services,Consumer Services,India
+ABREL.NS,ABREL,Aditya Birla Real Estate Ltd.,Realty,Realty,India
+ABSLAMC.NS,ABSLAMC,Aditya Birla Sun Life AMC Ltd.,Financial Services,Financial Services,India
+CPPLUS.NS,CPPLUS,Aditya Infotech Ltd.,Capital Goods,Capital Goods,India
+AEGISLOG.NS,AEGISLOG,Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+AEGISVOPAK.NS,AEGISVOPAK,Aegis Vopak Terminals Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+AFCONS.NS,AFCONS,Afcons Infrastructure Ltd.,Construction,Construction,India
+AFFLE.NS,AFFLE,Affle 3i Ltd.,Information Technology,Information Technology,India
+AJANTPHARM.NS,AJANTPHARM,Ajanta Pharmaceuticals Ltd.,Healthcare,Healthcare,India
+ALKEM.NS,ALKEM,Alkem Laboratories Ltd.,Healthcare,Healthcare,India
+ABDL.NS,ABDL,Allied Blenders and Distillers Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+ARE&M.NS,ARE&M,Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+AMBER.NS,AMBER,Amber Enterprises India Ltd.,Consumer Durables,Consumer Durables,India
+AMBUJACEM.NS,AMBUJACEM,Ambuja Cements Ltd.,Construction Materials,Construction Materials,India
+ANANDRATHI.NS,ANANDRATHI,Anand Rathi Wealth Ltd.,Financial Services,Financial Services,India
+ANANTRAJ.NS,ANANTRAJ,Anant Raj Ltd.,Realty,Realty,India
+ANGELONE.NS,ANGELONE,Angel One Ltd.,Financial Services,Financial Services,India
+ANTHEM.NS,ANTHEM,Anthem Biosciences Ltd.,Healthcare,Healthcare,India
+ANURAS.NS,ANURAS,Anupam Rasayan India Ltd.,Chemicals,Chemicals,India
+APARINDS.NS,APARINDS,Apar Industries Ltd.,Capital Goods,Capital Goods,India
+APOLLOHOSP.NS,APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,Healthcare,India
+APOLLOTYRE.NS,APOLLOTYRE,Apollo Tyres Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+APTUS.NS,APTUS,Aptus Value Housing Finance India Ltd.,Financial Services,Financial Services,India
+ASAHIINDIA.NS,ASAHIINDIA,Asahi India Glass Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+ASHOKLEY.NS,ASHOKLEY,Ashok Leyland Ltd.,Capital Goods,Capital Goods,India
+ASIANPAINT.NS,ASIANPAINT,Asian Paints Ltd.,Consumer Durables,Consumer Durables,India
+ASTERDM.NS,ASTERDM,Aster DM Quality Care Ltd.,Healthcare,Healthcare,India
+ASTRAL.NS,ASTRAL,Astral Ltd.,Capital Goods,Capital Goods,India
+ATHERENERG.NS,ATHERENERG,Ather Energy Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+ATUL.NS,ATUL,Atul Ltd.,Chemicals,Chemicals,India
+AUROPHARMA.NS,AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,Healthcare,India
+AIIL.NS,AIIL,Authum Investment & Infrastructure Ltd.,Financial Services,Financial Services,India
+DMART.NS,DMART,Avenue Supermarts Ltd.,Consumer Services,Consumer Services,India
+AXISBANK.NS,AXISBANK,Axis Bank Ltd.,Financial Services,Financial Services,India
+BEML.NS,BEML,BEML Ltd.,Capital Goods,Capital Goods,India
+BLS.NS,BLS,BLS International Services Ltd.,Consumer Services,Consumer Services,India
+BSE.NS,BSE,BSE Ltd.,Financial Services,Financial Services,India
+BAJAJ-AUTO.NS,BAJAJ-AUTO,Bajaj Auto Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+BAJFINANCE.NS,BAJFINANCE,Bajaj Finance Ltd.,Financial Services,Financial Services,India
+BAJAJFINSV.NS,BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Financial Services,India
+BAJAJHLDNG.NS,BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financial Services,Financial Services,India
+BAJAJHFL.NS,BAJAJHFL,Bajaj Housing Finance Ltd.,Financial Services,Financial Services,India
+BALKRISIND.NS,BALKRISIND,Balkrishna Industries Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+BALRAMCHIN.NS,BALRAMCHIN,Balrampur Chini Mills Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+BANDHANBNK.NS,BANDHANBNK,Bandhan Bank Ltd.,Financial Services,Financial Services,India
+BANKBARODA.NS,BANKBARODA,Bank of Baroda,Financial Services,Financial Services,India
+BANKINDIA.NS,BANKINDIA,Bank of India,Financial Services,Financial Services,India
+MAHABANK.NS,MAHABANK,Bank of Maharashtra,Financial Services,Financial Services,India
+BATAINDIA.NS,BATAINDIA,Bata India Ltd.,Consumer Durables,Consumer Durables,India
+BAYERCROP.NS,BAYERCROP,Bayer Cropscience Ltd.,Chemicals,Chemicals,India
+BELRISE.NS,BELRISE,Belrise Industries Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+BERGEPAINT.NS,BERGEPAINT,Berger Paints India Ltd.,Consumer Durables,Consumer Durables,India
+BDL.NS,BDL,Bharat Dynamics Ltd.,Capital Goods,Capital Goods,India
+BEL.NS,BEL,Bharat Electronics Ltd.,Capital Goods,Capital Goods,India
+BHARATFORG.NS,BHARATFORG,Bharat Forge Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+BHEL.NS,BHEL,Bharat Heavy Electricals Ltd.,Capital Goods,Capital Goods,India
+BPCL.NS,BPCL,Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+BHARTIARTL.NS,BHARTIARTL,Bharti Airtel Ltd.,Telecommunication,Telecommunication,India
+BHARTIHEXA.NS,BHARTIHEXA,Bharti Hexacom Ltd.,Telecommunication,Telecommunication,India
+BIKAJI.NS,BIKAJI,Bikaji Foods International Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+GROWW.NS,GROWW,Billionbrains Garage Ventures Ltd.,Financial Services,Financial Services,India
+BIOCON.NS,BIOCON,Biocon Ltd.,Healthcare,Healthcare,India
+BSOFT.NS,BSOFT,Birlasoft Ltd.,Information Technology,Information Technology,India
+BLUEDART.NS,BLUEDART,Blue Dart Express Ltd.,Services,Services,India
+BLUEJET.NS,BLUEJET,Blue Jet Healthcare Ltd.,Healthcare,Healthcare,India
+BLUESTARCO.NS,BLUESTARCO,Blue Star Ltd.,Consumer Durables,Consumer Durables,India
+BBTC.NS,BBTC,Bombay Burmah Trading Corporation Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+BOSCHLTD.NS,BOSCHLTD,Bosch Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+FIRSTCRY.NS,FIRSTCRY,Brainbees Solutions Ltd.,Consumer Services,Consumer Services,India
+BRIGADE.NS,BRIGADE,Brigade Enterprises Ltd.,Realty,Realty,India
+BRITANNIA.NS,BRITANNIA,Britannia Industries Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+MAPMYINDIA.NS,MAPMYINDIA,C.E. Info Systems Ltd.,Information Technology,Information Technology,India
+CCL.NS,CCL,CCL Products (I) Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+CESC.NS,CESC,CESC Ltd.,Power,Power,India
+CGPOWER.NS,CGPOWER,CG Power and Industrial Solutions Ltd.,Capital Goods,Capital Goods,India
+CIEINDIA.NS,CIEINDIA,CIE Automotive India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+CRISIL.NS,CRISIL,CRISIL Ltd.,Financial Services,Financial Services,India
+CANFINHOME.NS,CANFINHOME,Can Fin Homes Ltd.,Financial Services,Financial Services,India
+CANBK.NS,CANBK,Canara Bank,Financial Services,Financial Services,India
+CANHLIFE.NS,CANHLIFE,Canara HSBC Life Insurance Company Ltd.,Financial Services,Financial Services,India
+CAPLIPOINT.NS,CAPLIPOINT,Caplin Point Laboratories Ltd.,Healthcare,Healthcare,India
+CGCL.NS,CGCL,Capri Global Capital Ltd.,Financial Services,Financial Services,India
+CARBORUNIV.NS,CARBORUNIV,Carborundum Universal Ltd.,Capital Goods,Capital Goods,India
+CARTRADE.NS,CARTRADE,Cartrade Tech Ltd.,Consumer Services,Consumer Services,India
+CASTROLIND.NS,CASTROLIND,Castrol India Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+CEATLTD.NS,CEATLTD,Ceat Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+CEMPRO.NS,CEMPRO,Cemindia Projects Ltd.,Construction,Construction,India
+CENTRALBK.NS,CENTRALBK,Central Bank of India,Financial Services,Financial Services,India
+CDSL.NS,CDSL,Central Depository Services (India) Ltd.,Financial Services,Financial Services,India
+CHALET.NS,CHALET,Chalet Hotels Ltd.,Consumer Services,Consumer Services,India
+CHAMBLFERT.NS,CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Chemicals,Chemicals,India
+CHENNPETRO.NS,CHENNPETRO,Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+CHOICEIN.NS,CHOICEIN,Choice International Ltd.,Financial Services,Financial Services,India
+CHOLAHLDNG.NS,CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,Financial Services,Financial Services,India
+CHOLAFIN.NS,CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Financial Services,Financial Services,India
+CIPLA.NS,CIPLA,Cipla Ltd.,Healthcare,Healthcare,India
+CUB.NS,CUB,City Union Bank Ltd.,Financial Services,Financial Services,India
+CLEAN.NS,CLEAN,Clean Science and Technology Ltd.,Chemicals,Chemicals,India
+COALINDIA.NS,COALINDIA,Coal India Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+COCHINSHIP.NS,COCHINSHIP,Cochin Shipyard Ltd.,Capital Goods,Capital Goods,India
+COFORGE.NS,COFORGE,Coforge Ltd.,Information Technology,Information Technology,India
+COHANCE.NS,COHANCE,Cohance Lifesciences Ltd.,Healthcare,Healthcare,India
+COLPAL.NS,COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+CAMS.NS,CAMS,Computer Age Management Services Ltd.,Financial Services,Financial Services,India
+CONCORDBIO.NS,CONCORDBIO,Concord Biotech Ltd.,Healthcare,Healthcare,India
+CONCOR.NS,CONCOR,Container Corporation of India Ltd.,Services,Services,India
+COROMANDEL.NS,COROMANDEL,Coromandel International Ltd.,Chemicals,Chemicals,India
+CRAFTSMAN.NS,CRAFTSMAN,Craftsman Automation Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+CREDITACC.NS,CREDITACC,CreditAccess Grameen Ltd.,Financial Services,Financial Services,India
+CROMPTON.NS,CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,Consumer Durables,India
+CUMMINSIND.NS,CUMMINSIND,Cummins India Ltd.,Capital Goods,Capital Goods,India
+CYIENT.NS,CYIENT,Cyient Ltd.,Information Technology,Information Technology,India
+DCMSHRIRAM.NS,DCMSHRIRAM,DCM Shriram Ltd.,Diversified,Diversified,India
+DLF.NS,DLF,DLF Ltd.,Realty,Realty,India
+DOMS.NS,DOMS,DOMS Industries Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+DABUR.NS,DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+DALBHARAT.NS,DALBHARAT,Dalmia Bharat Ltd.,Construction Materials,Construction Materials,India
+DATAPATTNS.NS,DATAPATTNS,Data Patterns (India) Ltd.,Capital Goods,Capital Goods,India
+DEEPAKFERT.NS,DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,Chemicals,India
+DEEPAKNTR.NS,DEEPAKNTR,Deepak Nitrite Ltd.,Chemicals,Chemicals,India
+DELHIVERY.NS,DELHIVERY,Delhivery Ltd.,Services,Services,India
+DEVYANI.NS,DEVYANI,Devyani International Ltd.,Consumer Services,Consumer Services,India
+DIVISLAB.NS,DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Healthcare,India
+DIXON.NS,DIXON,Dixon Technologies (India) Ltd.,Consumer Durables,Consumer Durables,India
+LALPATHLAB.NS,LALPATHLAB,Dr. Lal Path Labs Ltd.,Healthcare,Healthcare,India
+DRREDDY.NS,DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,Healthcare,India
+EIDPARRY.NS,EIDPARRY,E.I.D. Parry (India) Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+EIHOTEL.NS,EIHOTEL,EIH Ltd.,Consumer Services,Consumer Services,India
+EICHERMOT.NS,EICHERMOT,Eicher Motors Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+ELECON.NS,ELECON,Elecon Engineering Co. Ltd.,Capital Goods,Capital Goods,India
+ELGIEQUIP.NS,ELGIEQUIP,Elgi Equipments Ltd.,Capital Goods,Capital Goods,India
+EMAMILTD.NS,EMAMILTD,Emami Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+EMCURE.NS,EMCURE,Emcure Pharmaceuticals Ltd.,Healthcare,Healthcare,India
+EMMVEE.NS,EMMVEE,Emmvee Photovoltaic Power Ltd.,Capital Goods,Capital Goods,India
+ENDURANCE.NS,ENDURANCE,Endurance Technologies Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+ENGINERSIN.NS,ENGINERSIN,Engineers India Ltd.,Construction,Construction,India
+ERIS.NS,ERIS,Eris Lifesciences Ltd.,Healthcare,Healthcare,India
+ESCORTS.NS,ESCORTS,Escorts Kubota Ltd.,Capital Goods,Capital Goods,India
+ETERNAL.NS,ETERNAL,Eternal Ltd.,Consumer Services,Consumer Services,India
+EXIDEIND.NS,EXIDEIND,Exide Industries Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+NYKAA.NS,NYKAA,FSN E-Commerce Ventures Ltd.,Consumer Services,Consumer Services,India
+FEDERALBNK.NS,FEDERALBNK,Federal Bank Ltd.,Financial Services,Financial Services,India
+FACT.NS,FACT,Fertilisers and Chemicals Travancore Ltd.,Chemicals,Chemicals,India
+FINCABLES.NS,FINCABLES,Finolex Cables Ltd.,Capital Goods,Capital Goods,India
+FSL.NS,FSL,Firstsource Solutions Ltd.,Services,Services,India
+FIVESTAR.NS,FIVESTAR,Five-Star Business Finance Ltd.,Financial Services,Financial Services,India
+FORCEMOT.NS,FORCEMOT,Force Motors Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+FORTIS.NS,FORTIS,Fortis Healthcare Ltd.,Healthcare,Healthcare,India
+GAIL.NS,GAIL,GAIL (India) Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+GVT&D.NS,GVT&D,GE Vernova T&D India Ltd.,Capital Goods,Capital Goods,India
+GMRAIRPORT.NS,GMRAIRPORT,GMR Airports Ltd.,Services,Services,India
+GABRIEL.NS,GABRIEL,Gabriel India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+GALLANTT.NS,GALLANTT,Gallantt Ispat Ltd.,Capital Goods,Capital Goods,India
+GRSE.NS,GRSE,Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods,Capital Goods,India
+GICRE.NS,GICRE,General Insurance Corporation of India,Financial Services,Financial Services,India
+GILLETTE.NS,GILLETTE,Gillette India Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+GLAND.NS,GLAND,Gland Pharma Ltd.,Healthcare,Healthcare,India
+GLAXO.NS,GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,Healthcare,Healthcare,India
+GLENMARK.NS,GLENMARK,Glenmark Pharmaceuticals Ltd.,Healthcare,Healthcare,India
+MEDANTA.NS,MEDANTA,Global Health Ltd.,Healthcare,Healthcare,India
+GODIGIT.NS,GODIGIT,Go Digit General Insurance Ltd.,Financial Services,Financial Services,India
+GPIL.NS,GPIL,Godawari Power & Ispat Ltd.,Capital Goods,Capital Goods,India
+GODFRYPHLP.NS,GODFRYPHLP,Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+GODREJCP.NS,GODREJCP,Godrej Consumer Products Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+GODREJIND.NS,GODREJIND,Godrej Industries Ltd.,Diversified,Diversified,India
+GODREJPROP.NS,GODREJPROP,Godrej Properties Ltd.,Realty,Realty,India
+GRANULES.NS,GRANULES,Granules India Ltd.,Healthcare,Healthcare,India
+GRAPHITE.NS,GRAPHITE,Graphite India Ltd.,Capital Goods,Capital Goods,India
+GRASIM.NS,GRASIM,Grasim Industries Ltd.,Construction Materials,Construction Materials,India
+GRAVITA.NS,GRAVITA,Gravita India Ltd.,Metals & Mining,Metals & Mining,India
+GESHIP.NS,GESHIP,Great Eastern Shipping Co. Ltd.,Services,Services,India
+FLUOROCHEM.NS,FLUOROCHEM,Gujarat Fluorochemicals Ltd.,Chemicals,Chemicals,India
+GMDCLTD.NS,GMDCLTD,Gujarat Mineral Development Corporation Ltd.,Metals & Mining,Metals & Mining,India
+HEG.NS,HEG,H.E.G. Ltd.,Capital Goods,Capital Goods,India
+HBLENGINE.NS,HBLENGINE,HBL Engineering Ltd.,Capital Goods,Capital Goods,India
+HCLTECH.NS,HCLTECH,HCL Technologies Ltd.,Information Technology,Information Technology,India
+HDBFS.NS,HDBFS,HDB Financial Services Ltd.,Financial Services,Financial Services,India
+HDFCAMC.NS,HDFCAMC,HDFC Asset Management Company Ltd.,Financial Services,Financial Services,India
+HDFCBANK.NS,HDFCBANK,HDFC Bank Ltd.,Financial Services,Financial Services,India
+HDFCLIFE.NS,HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,Financial Services,India
+HFCL.NS,HFCL,HFCL Ltd.,Telecommunication,Telecommunication,India
+HAVELLS.NS,HAVELLS,Havells India Ltd.,Consumer Durables,Consumer Durables,India
+HEROMOTOCO.NS,HEROMOTOCO,Hero MotoCorp Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+HEXT.NS,HEXT,Hexaware Technologies Ltd.,Information Technology,Information Technology,India
+HSCL.NS,HSCL,Himadri Speciality Chemical Ltd.,Chemicals,Chemicals,India
+HINDALCO.NS,HINDALCO,Hindalco Industries Ltd.,Metals & Mining,Metals & Mining,India
+HAL.NS,HAL,Hindustan Aeronautics Ltd.,Capital Goods,Capital Goods,India
+HINDCOPPER.NS,HINDCOPPER,Hindustan Copper Ltd.,Metals & Mining,Metals & Mining,India
+HINDPETRO.NS,HINDPETRO,Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+HINDUNILVR.NS,HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+HINDZINC.NS,HINDZINC,Hindustan Zinc Ltd.,Metals & Mining,Metals & Mining,India
+POWERINDIA.NS,POWERINDIA,Hitachi Energy India Ltd.,Capital Goods,Capital Goods,India
+HOMEFIRST.NS,HOMEFIRST,Home First Finance Company India Ltd.,Financial Services,Financial Services,India
+HONASA.NS,HONASA,Honasa Consumer Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+HONAUT.NS,HONAUT,Honeywell Automation India Ltd.,Capital Goods,Capital Goods,India
+HUDCO.NS,HUDCO,Housing & Urban Development Corporation Ltd.,Financial Services,Financial Services,India
+HYUNDAI.NS,HYUNDAI,Hyundai Motor India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+ICICIBANK.NS,ICICIBANK,ICICI Bank Ltd.,Financial Services,Financial Services,India
+ICICIGI.NS,ICICIGI,ICICI Lombard General Insurance Company Ltd.,Financial Services,Financial Services,India
+ICICIAMC.NS,ICICIAMC,ICICI Prudential Asset Management Company Ltd.,Financial Services,Financial Services,India
+ICICIPRULI.NS,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,Financial Services,Financial Services,India
+IDBI.NS,IDBI,IDBI Bank Ltd.,Financial Services,Financial Services,India
+IDFCFIRSTB.NS,IDFCFIRSTB,IDFC First Bank Ltd.,Financial Services,Financial Services,India
+IFCI.NS,IFCI,IFCI Ltd.,Financial Services,Financial Services,India
+IIFL.NS,IIFL,IIFL Finance Ltd.,Financial Services,Financial Services,India
+IRB.NS,IRB,IRB Infrastructure Developers Ltd.,Construction,Construction,India
+IRCON.NS,IRCON,IRCON International Ltd.,Construction,Construction,India
+ITCHOTELS.NS,ITCHOTELS,ITC Hotels Ltd.,Consumer Services,Consumer Services,India
+ITC.NS,ITC,ITC Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+ITI.NS,ITI,ITI Ltd.,Telecommunication,Telecommunication,India
+INDGN.NS,INDGN,Indegene Ltd.,Healthcare,Healthcare,India
+INDIACEM.NS,INDIACEM,India Cements Ltd.,Construction Materials,Construction Materials,India
+INDIAMART.NS,INDIAMART,Indiamart Intermesh Ltd.,Consumer Services,Consumer Services,India
+INDIANB.NS,INDIANB,Indian Bank,Financial Services,Financial Services,India
+IEX.NS,IEX,Indian Energy Exchange Ltd.,Financial Services,Financial Services,India
+INDHOTEL.NS,INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,Consumer Services,India
+IOC.NS,IOC,Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+IOB.NS,IOB,Indian Overseas Bank,Financial Services,Financial Services,India
+IRCTC.NS,IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,Consumer Services,India
+IRFC.NS,IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,Financial Services,India
+IREDA.NS,IREDA,Indian Renewable Energy Development Agency Ltd.,Financial Services,Financial Services,India
+IGL.NS,IGL,Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+INDUSTOWER.NS,INDUSTOWER,Indus Towers Ltd.,Telecommunication,Telecommunication,India
+INDUSINDBK.NS,INDUSINDBK,IndusInd Bank Ltd.,Financial Services,Financial Services,India
+NAUKRI.NS,NAUKRI,Info Edge (India) Ltd.,Consumer Services,Consumer Services,India
+INFY.NS,INFY,Infosys Ltd.,Information Technology,Information Technology,India
+INOXWIND.NS,INOXWIND,Inox Wind Ltd.,Capital Goods,Capital Goods,India
+INTELLECT.NS,INTELLECT,Intellect Design Arena Ltd.,Information Technology,Information Technology,India
+INDIGO.NS,INDIGO,InterGlobe Aviation Ltd.,Services,Services,India
+IGIL.NS,IGIL,International Gemological Institute Ltd.,Services,Services,India
+IKS.NS,IKS,Inventurus Knowledge Solutions Ltd.,Information Technology,Information Technology,India
+IPCALAB.NS,IPCALAB,Ipca Laboratories Ltd.,Healthcare,Healthcare,India
+JKCEMENT.NS,JKCEMENT,J.K. Cement Ltd.,Construction Materials,Construction Materials,India
+JBMA.NS,JBMA,JBM Auto Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+JKTYRE.NS,JKTYRE,JK Tyre & Industries Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+JMFINANCIL.NS,JMFINANCIL,JM Financial Ltd.,Financial Services,Financial Services,India
+JSWCEMENT.NS,JSWCEMENT,JSW Cement Ltd.,Construction Materials,Construction Materials,India
+JSWDULUX.NS,JSWDULUX,JSW Dulux Ltd.,Consumer Durables,Consumer Durables,India
+JSWENERGY.NS,JSWENERGY,JSW Energy Ltd.,Power,Power,India
+JSWINFRA.NS,JSWINFRA,JSW Infrastructure Ltd.,Services,Services,India
+JSWSTEEL.NS,JSWSTEEL,JSW Steel Ltd.,Metals & Mining,Metals & Mining,India
+JAINREC.NS,JAINREC,Jain Resource Recycling Ltd.,Metals & Mining,Metals & Mining,India
+JPPOWER.NS,JPPOWER,Jaiprakash Power Ventures Ltd.,Power,Power,India
+J&KBANK.NS,J&KBANK,Jammu & Kashmir Bank Ltd.,Financial Services,Financial Services,India
+JINDALSAW.NS,JINDALSAW,Jindal Saw Ltd.,Capital Goods,Capital Goods,India
+JSL.NS,JSL,Jindal Stainless Ltd.,Metals & Mining,Metals & Mining,India
+JINDALSTEL.NS,JINDALSTEL,Jindal Steel Ltd.,Metals & Mining,Metals & Mining,India
+JIOFIN.NS,JIOFIN,Jio Financial Services Ltd.,Financial Services,Financial Services,India
+JUBLFOOD.NS,JUBLFOOD,Jubilant Foodworks Ltd.,Consumer Services,Consumer Services,India
+JUBLINGREA.NS,JUBLINGREA,Jubilant Ingrevia Ltd.,Chemicals,Chemicals,India
+JUBLPHARMA.NS,JUBLPHARMA,Jubilant Pharmova Ltd.,Healthcare,Healthcare,India
+JWL.NS,JWL,Jupiter Wagons Ltd.,Capital Goods,Capital Goods,India
+JYOTICNC.NS,JYOTICNC,Jyoti CNC Automation Ltd.,Capital Goods,Capital Goods,India
+KPRMILL.NS,KPRMILL,K.P.R. Mill Ltd.,Textiles,Textiles,India
+KEI.NS,KEI,KEI Industries Ltd.,Capital Goods,Capital Goods,India
+KPITTECH.NS,KPITTECH,KPIT Technologies Ltd.,Information Technology,Information Technology,India
+KAJARIACER.NS,KAJARIACER,Kajaria Ceramics Ltd.,Consumer Durables,Consumer Durables,India
+KPIL.NS,KPIL,Kalpataru Projects International Ltd.,Construction,Construction,India
+KALYANKJIL.NS,KALYANKJIL,Kalyan Jewellers India Ltd.,Consumer Durables,Consumer Durables,India
+KARURVYSYA.NS,KARURVYSYA,Karur Vysya Bank Ltd.,Financial Services,Financial Services,India
+KAYNES.NS,KAYNES,Kaynes Technology India Ltd.,Capital Goods,Capital Goods,India
+KEC.NS,KEC,Kec International Ltd.,Construction,Construction,India
+KFINTECH.NS,KFINTECH,Kfin Technologies Ltd.,Financial Services,Financial Services,India
+KIRLOSENG.NS,KIRLOSENG,Kirloskar Oil Eng Ltd.,Capital Goods,Capital Goods,India
+KOTAKBANK.NS,KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,Financial Services,India
+KIMS.NS,KIMS,Krishna Institute of Medical Sciences Ltd.,Healthcare,Healthcare,India
+LTF.NS,LTF,L&T Finance Ltd.,Financial Services,Financial Services,India
+LTTS.NS,LTTS,L&T Technology Services Ltd.,Information Technology,Information Technology,India
+LGEINDIA.NS,LGEINDIA,LG Electronics India Ltd.,Consumer Durables,Consumer Durables,India
+LICHSGFIN.NS,LICHSGFIN,LIC Housing Finance Ltd.,Financial Services,Financial Services,India
+LTFOODS.NS,LTFOODS,LT Foods Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+LTM.NS,LTM,LTM Ltd.,Information Technology,Information Technology,India
+LT.NS,LT,Larsen & Toubro Ltd.,Construction,Construction,India
+LATENTVIEW.NS,LATENTVIEW,Latent View Analytics Ltd.,Information Technology,Information Technology,India
+LAURUSLABS.NS,LAURUSLABS,Laurus Labs Ltd.,Healthcare,Healthcare,India
+THELEELA.NS,THELEELA,Leela Palaces Hotels & Resorts Ltd.,Consumer Services,Consumer Services,India
+LEMONTREE.NS,LEMONTREE,Lemon Tree Hotels Ltd.,Consumer Services,Consumer Services,India
+LENSKART.NS,LENSKART,Lenskart Solutions Ltd.,Consumer Services,Consumer Services,India
+LICI.NS,LICI,Life Insurance Corporation of India,Financial Services,Financial Services,India
+LINDEINDIA.NS,LINDEINDIA,Linde India Ltd.,Chemicals,Chemicals,India
+LLOYDSME.NS,LLOYDSME,Lloyds Metals And Energy Ltd.,Metals & Mining,Metals & Mining,India
+LODHA.NS,LODHA,Lodha Developers Ltd.,Realty,Realty,India
+LUPIN.NS,LUPIN,Lupin Ltd.,Healthcare,Healthcare,India
+MMTC.NS,MMTC,MMTC Ltd.,Services,Services,India
+MRF.NS,MRF,MRF Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+MGL.NS,MGL,Mahanagar Gas Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+M&MFIN.NS,M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Financial Services,Financial Services,India
+M&M.NS,M&M,Mahindra & Mahindra Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+MANAPPURAM.NS,MANAPPURAM,Manappuram Finance Ltd.,Financial Services,Financial Services,India
+MRPL.NS,MRPL,Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+MANKIND.NS,MANKIND,Mankind Pharma Ltd.,Healthcare,Healthcare,India
+MARICO.NS,MARICO,Marico Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+MARUTI.NS,MARUTI,Maruti Suzuki India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+MFSL.NS,MFSL,Max Financial Services Ltd.,Financial Services,Financial Services,India
+MAXHEALTH.NS,MAXHEALTH,Max Healthcare Institute Ltd.,Healthcare,Healthcare,India
+MAZDOCK.NS,MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,Capital Goods,Capital Goods,India
+MEESHO.NS,MEESHO,Meesho Ltd.,Consumer Services,Consumer Services,India
+MINDACORP.NS,MINDACORP,Minda Corporation Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+MSUMI.NS,MSUMI,Motherson Sumi Wiring India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+MOTILALOFS.NS,MOTILALOFS,Motilal Oswal Financial Services Ltd.,Financial Services,Financial Services,India
+MPHASIS.NS,MPHASIS,MphasiS Ltd.,Information Technology,Information Technology,India
+MCX.NS,MCX,Multi Commodity Exchange of India Ltd.,Financial Services,Financial Services,India
+MUTHOOTFIN.NS,MUTHOOTFIN,Muthoot Finance Ltd.,Financial Services,Financial Services,India
+NATCOPHARM.NS,NATCOPHARM,NATCO Pharma Ltd.,Healthcare,Healthcare,India
+NBCC.NS,NBCC,NBCC (India) Ltd.,Construction,Construction,India
+NCC.NS,NCC,NCC Ltd.,Construction,Construction,India
+NHPC.NS,NHPC,NHPC Ltd.,Power,Power,India
+NLCINDIA.NS,NLCINDIA,NLC India Ltd.,Power,Power,India
+NMDC.NS,NMDC,NMDC Ltd.,Metals & Mining,Metals & Mining,India
+NSLNISP.NS,NSLNISP,NMDC Steel Ltd.,Metals & Mining,Metals & Mining,India
+NTPCGREEN.NS,NTPCGREEN,NTPC Green Energy Ltd.,Power,Power,India
+NTPC.NS,NTPC,NTPC Ltd.,Power,Power,India
+NH.NS,NH,Narayana Hrudayalaya Ltd.,Healthcare,Healthcare,India
+NATIONALUM.NS,NATIONALUM,National Aluminium Co. Ltd.,Metals & Mining,Metals & Mining,India
+NAVA.NS,NAVA,Nava Ltd.,Power,Power,India
+NAVINFLUOR.NS,NAVINFLUOR,Navin Fluorine International Ltd.,Chemicals,Chemicals,India
+NESTLEIND.NS,NESTLEIND,Nestle India Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+NETWEB.NS,NETWEB,Netweb Technologies India Ltd.,Information Technology,Information Technology,India
+NEULANDLAB.NS,NEULANDLAB,Neuland Laboratories Ltd.,Healthcare,Healthcare,India
+NEWGEN.NS,NEWGEN,Newgen Software Technologies Ltd.,Information Technology,Information Technology,India
+NAM-INDIA.NS,NAM-INDIA,Nippon Life India Asset Management Ltd.,Financial Services,Financial Services,India
+NIVABUPA.NS,NIVABUPA,Niva Bupa Health Insurance Company Ltd.,Financial Services,Financial Services,India
+NUVAMA.NS,NUVAMA,Nuvama Wealth Management Ltd.,Financial Services,Financial Services,India
+NUVOCO.NS,NUVOCO,Nuvoco Vistas Corporation Ltd.,Construction Materials,Construction Materials,India
+OBEROIRLTY.NS,OBEROIRLTY,Oberoi Realty Ltd.,Realty,Realty,India
+ONGC.NS,ONGC,Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+OIL.NS,OIL,Oil India Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+OLAELEC.NS,OLAELEC,Ola Electric Mobility Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+OLECTRA.NS,OLECTRA,Olectra Greentech Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+PAYTM.NS,PAYTM,One 97 Communications Ltd.,Financial Services,Financial Services,India
+ONESOURCE.NS,ONESOURCE,Onesource Specialty Pharma Ltd.,Healthcare,Healthcare,India
+OFSS.NS,OFSS,Oracle Financial Services Software Ltd.,Information Technology,Information Technology,India
+POLICYBZR.NS,POLICYBZR,PB Fintech Ltd.,Financial Services,Financial Services,India
+PCBL.NS,PCBL,PCBL Chemical Ltd.,Chemicals,Chemicals,India
+PGEL.NS,PGEL,PG Electroplast Ltd.,Consumer Durables,Consumer Durables,India
+PIIND.NS,PIIND,PI Industries Ltd.,Chemicals,Chemicals,India
+PNBHOUSING.NS,PNBHOUSING,PNB Housing Finance Ltd.,Financial Services,Financial Services,India
+PTCIL.NS,PTCIL,PTC Industries Ltd.,Capital Goods,Capital Goods,India
+PVRINOX.NS,PVRINOX,PVR INOX Ltd.,Media Entertainment & Publication,Media Entertainment & Publication,India
+PAGEIND.NS,PAGEIND,Page Industries Ltd.,Textiles,Textiles,India
+PARADEEP.NS,PARADEEP,Paradeep Phosphates Ltd.,Chemicals,Chemicals,India
+PATANJALI.NS,PATANJALI,Patanjali Foods Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+PERSISTENT.NS,PERSISTENT,Persistent Systems Ltd.,Information Technology,Information Technology,India
+PETRONET.NS,PETRONET,Petronet LNG Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+PFIZER.NS,PFIZER,Pfizer Ltd.,Healthcare,Healthcare,India
+PHOENIXLTD.NS,PHOENIXLTD,Phoenix Mills Ltd.,Realty,Realty,India
+PWL.NS,PWL,Physicswallah Ltd.,Consumer Services,Consumer Services,India
+PIDILITIND.NS,PIDILITIND,Pidilite Industries Ltd.,Chemicals,Chemicals,India
+PINELABS.NS,PINELABS,Pine Labs Ltd.,Financial Services,Financial Services,India
+PIRAMALFIN.NS,PIRAMALFIN,Piramal Finance Ltd.,Financial Services,Financial Services,India
+PPLPHARMA.NS,PPLPHARMA,Piramal Pharma Ltd.,Healthcare,Healthcare,India
+POLYMED.NS,POLYMED,Poly Medicure Ltd.,Healthcare,Healthcare,India
+POLYCAB.NS,POLYCAB,Polycab India Ltd.,Capital Goods,Capital Goods,India
+POONAWALLA.NS,POONAWALLA,Poonawalla Fincorp Ltd.,Financial Services,Financial Services,India
+PFC.NS,PFC,Power Finance Corporation Ltd.,Financial Services,Financial Services,India
+POWERGRID.NS,POWERGRID,Power Grid Corporation of India Ltd.,Power,Power,India
+PREMIERENE.NS,PREMIERENE,Premier Energies Ltd.,Capital Goods,Capital Goods,India
+PRESTIGE.NS,PRESTIGE,Prestige Estates Projects Ltd.,Realty,Realty,India
+PFOCUS.NS,PFOCUS,Prime Focus Ltd.,Media Entertainment & Publication,Media Entertainment & Publication,India
+PNB.NS,PNB,Punjab National Bank,Financial Services,Financial Services,India
+RRKABEL.NS,RRKABEL,R R Kabel Ltd.,Capital Goods,Capital Goods,India
+RBLBANK.NS,RBLBANK,RBL Bank Ltd.,Financial Services,Financial Services,India
+RECLTD.NS,RECLTD,REC Ltd.,Financial Services,Financial Services,India
+RHIM.NS,RHIM,RHI MAGNESITA INDIA LTD.,Capital Goods,Capital Goods,India
+RITES.NS,RITES,RITES Ltd.,Construction,Construction,India
+RADICO.NS,RADICO,Radico Khaitan Ltd,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+RVNL.NS,RVNL,Rail Vikas Nigam Ltd.,Construction,Construction,India
+RAILTEL.NS,RAILTEL,Railtel Corporation Of India Ltd.,Telecommunication,Telecommunication,India
+RAINBOW.NS,RAINBOW,Rainbow Childrens Medicare Ltd.,Healthcare,Healthcare,India
+RKFORGE.NS,RKFORGE,Ramkrishna Forgings Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+REDINGTON.NS,REDINGTON,Redington Ltd.,Services,Services,India
+RELIANCE.NS,RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,Oil Gas & Consumable Fuels,India
+RPOWER.NS,RPOWER,Reliance Power Ltd.,Power,Power,India
+SBFC.NS,SBFC,SBFC Finance Ltd.,Financial Services,Financial Services,India
+SBICARD.NS,SBICARD,SBI Cards and Payment Services Ltd.,Financial Services,Financial Services,India
+SBILIFE.NS,SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,Financial Services,India
+SJVN.NS,SJVN,SJVN Ltd.,Power,Power,India
+SRF.NS,SRF,SRF Ltd.,Chemicals,Chemicals,India
+SAGILITY.NS,SAGILITY,Sagility Ltd.,Information Technology,Information Technology,India
+SAILIFE.NS,SAILIFE,Sai Life Sciences Ltd.,Healthcare,Healthcare,India
+SAMMAANCAP.NS,SAMMAANCAP,Sammaan Capital Ltd.,Financial Services,Financial Services,India
+MOTHERSON.NS,MOTHERSON,Samvardhana Motherson International Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+SAPPHIRE.NS,SAPPHIRE,Sapphire Foods India Ltd.,Consumer Services,Consumer Services,India
+SARDAEN.NS,SARDAEN,Sarda Energy and Minerals Ltd.,Metals & Mining,Metals & Mining,India
+SAREGAMA.NS,SAREGAMA,Saregama India Ltd,Media Entertainment & Publication,Media Entertainment & Publication,India
+SCHAEFFLER.NS,SCHAEFFLER,Schaeffler India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+SCHNEIDER.NS,SCHNEIDER,Schneider Electric Infrastructure Ltd.,Capital Goods,Capital Goods,India
+SCI.NS,SCI,Shipping Corporation of India Ltd.,Services,Services,India
+SHREECEM.NS,SHREECEM,Shree Cement Ltd.,Construction Materials,Construction Materials,India
+SHRIRAMFIN.NS,SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,Financial Services,India
+SHYAMMETL.NS,SHYAMMETL,Shyam Metalics and Energy Ltd.,Capital Goods,Capital Goods,India
+ENRIN.NS,ENRIN,Siemens Energy India Ltd.,Capital Goods,Capital Goods,India
+SIEMENS.NS,SIEMENS,Siemens Ltd.,Capital Goods,Capital Goods,India
+SIGNATURE.NS,SIGNATURE,Signatureglobal (India) Ltd.,Realty,Realty,India
+SOBHA.NS,SOBHA,Sobha Ltd.,Realty,Realty,India
+SOLARINDS.NS,SOLARINDS,Solar Industries India Ltd.,Chemicals,Chemicals,India
+SONACOMS.NS,SONACOMS,Sona BLW Precision Forgings Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+SONATSOFTW.NS,SONATSOFTW,Sonata Software Ltd.,Information Technology,Information Technology,India
+STARHEALTH.NS,STARHEALTH,Star Health and Allied Insurance Company Ltd.,Financial Services,Financial Services,India
+SBIN.NS,SBIN,State Bank of India,Financial Services,Financial Services,India
+SAIL.NS,SAIL,Steel Authority of India Ltd.,Metals & Mining,Metals & Mining,India
+SUMICHEM.NS,SUMICHEM,Sumitomo Chemical India Ltd.,Chemicals,Chemicals,India
+SUNPHARMA.NS,SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Healthcare,India
+SUNTV.NS,SUNTV,Sun TV Network Ltd.,Media Entertainment & Publication,Media Entertainment & Publication,India
+SUNDARMFIN.NS,SUNDARMFIN,Sundaram Finance Ltd.,Financial Services,Financial Services,India
+SUPREMEIND.NS,SUPREMEIND,Supreme Industries Ltd.,Capital Goods,Capital Goods,India
+SPLPETRO.NS,SPLPETRO,Supreme Petrochem Ltd.,Chemicals,Chemicals,India
+SUZLON.NS,SUZLON,Suzlon Energy Ltd.,Capital Goods,Capital Goods,India
+SWANCORP.NS,SWANCORP,Swan Corp Ltd.,Chemicals,Chemicals,India
+SWIGGY.NS,SWIGGY,Swiggy Ltd.,Consumer Services,Consumer Services,India
+SYNGENE.NS,SYNGENE,Syngene International Ltd.,Healthcare,Healthcare,India
+SYRMA.NS,SYRMA,Syrma SGS Technology Ltd.,Capital Goods,Capital Goods,India
+TBOTEK.NS,TBOTEK,TBO Tek Ltd.,Consumer Services,Consumer Services,India
+TVSMOTOR.NS,TVSMOTOR,TVS Motor Company Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+TATACAP.NS,TATACAP,Tata Capital Ltd.,Financial Services,Financial Services,India
+TATACHEM.NS,TATACHEM,Tata Chemicals Ltd.,Chemicals,Chemicals,India
+TATACOMM.NS,TATACOMM,Tata Communications Ltd.,Telecommunication,Telecommunication,India
+TCS.NS,TCS,Tata Consultancy Services Ltd.,Information Technology,Information Technology,India
+TATACONSUM.NS,TATACONSUM,Tata Consumer Products Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+TATAELXSI.NS,TATAELXSI,Tata Elxsi Ltd.,Information Technology,Information Technology,India
+TATAINVEST.NS,TATAINVEST,Tata Investment Corporation Ltd.,Financial Services,Financial Services,India
+TMCV.NS,TMCV,Tata Motors Ltd.,Capital Goods,Capital Goods,India
+TMPV.NS,TMPV,Tata Motors Passenger Vehicles Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+TATAPOWER.NS,TATAPOWER,Tata Power Co. Ltd.,Power,Power,India
+TATASTEEL.NS,TATASTEEL,Tata Steel Ltd.,Metals & Mining,Metals & Mining,India
+TATATECH.NS,TATATECH,Tata Technologies Ltd.,Information Technology,Information Technology,India
+TTML.NS,TTML,Tata Teleservices (Maharashtra) Ltd.,Telecommunication,Telecommunication,India
+TECHM.NS,TECHM,Tech Mahindra Ltd.,Information Technology,Information Technology,India
+TECHNOE.NS,TECHNOE,Techno Electric & Engineering Company Ltd.,Construction,Construction,India
+TEGA.NS,TEGA,Tega Industries Ltd.,Capital Goods,Capital Goods,India
+TEJASNET.NS,TEJASNET,Tejas Networks Ltd.,Telecommunication,Telecommunication,India
+TENNIND.NS,TENNIND,Tenneco Clean Air India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+NIACL.NS,NIACL,The New India Assurance Company Ltd.,Financial Services,Financial Services,India
+RAMCOCEM.NS,RAMCOCEM,The Ramco Cements Ltd.,Construction Materials,Construction Materials,India
+THERMAX.NS,THERMAX,Thermax Ltd.,Capital Goods,Capital Goods,India
+TIMKEN.NS,TIMKEN,Timken India Ltd.,Capital Goods,Capital Goods,India
+TITAGARH.NS,TITAGARH,Titagarh Rail Systems Ltd.,Capital Goods,Capital Goods,India
+TITAN.NS,TITAN,Titan Company Ltd.,Consumer Durables,Consumer Durables,India
+TORNTPHARM.NS,TORNTPHARM,Torrent Pharmaceuticals Ltd.,Healthcare,Healthcare,India
+TORNTPOWER.NS,TORNTPOWER,Torrent Power Ltd.,Power,Power,India
+TARIL.NS,TARIL,Transformers And Rectifiers (India) Ltd.,Capital Goods,Capital Goods,India
+TRAVELFOOD.NS,TRAVELFOOD,Travel Food Services Ltd.,Consumer Services,Consumer Services,India
+TRENT.NS,TRENT,Trent Ltd.,Consumer Services,Consumer Services,India
+TRIDENT.NS,TRIDENT,Trident Ltd.,Textiles,Textiles,India
+TRITURBINE.NS,TRITURBINE,Triveni Turbine Ltd.,Capital Goods,Capital Goods,India
+TIINDIA.NS,TIINDIA,Tube Investments of India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+UCOBANK.NS,UCOBANK,UCO Bank,Financial Services,Financial Services,India
+UNOMINDA.NS,UNOMINDA,UNO Minda Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+UPL.NS,UPL,UPL Ltd.,Chemicals,Chemicals,India
+UTIAMC.NS,UTIAMC,UTI Asset Management Company Ltd.,Financial Services,Financial Services,India
+ULTRACEMCO.NS,ULTRACEMCO,UltraTech Cement Ltd.,Construction Materials,Construction Materials,India
+UNIONBANK.NS,UNIONBANK,Union Bank of India,Financial Services,Financial Services,India
+UBL.NS,UBL,United Breweries Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+UNITDSPR.NS,UNITDSPR,United Spirits Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+URBANCO.NS,URBANCO,Urban Company Ltd.,Consumer Services,Consumer Services,India
+USHAMART.NS,USHAMART,Usha Martin Ltd.,Capital Goods,Capital Goods,India
+VTL.NS,VTL,Vardhman Textiles Ltd.,Textiles,Textiles,India
+VBL.NS,VBL,Varun Beverages Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+VEDL.NS,VEDL,Vedanta Ltd.,Metals & Mining,Metals & Mining,India
+VIJAYA.NS,VIJAYA,Vijaya Diagnostic Centre Ltd.,Healthcare,Healthcare,India
+VMM.NS,VMM,Vishal Mega Mart Ltd.,Consumer Services,Consumer Services,India
+IDEA.NS,IDEA,Vodafone Idea Ltd.,Telecommunication,Telecommunication,India
+VOLTAS.NS,VOLTAS,Voltas Ltd.,Consumer Durables,Consumer Durables,India
+WAAREEENER.NS,WAAREEENER,Waaree Energies Ltd.,Capital Goods,Capital Goods,India
+WELCORP.NS,WELCORP,Welspun Corp Ltd.,Capital Goods,Capital Goods,India
+WELSPUNLIV.NS,WELSPUNLIV,Welspun Living Ltd.,Textiles,Textiles,India
+WHIRLPOOL.NS,WHIRLPOOL,Whirlpool of India Ltd.,Consumer Durables,Consumer Durables,India
+WIPRO.NS,WIPRO,Wipro Ltd.,Information Technology,Information Technology,India
+WOCKPHARMA.NS,WOCKPHARMA,Wockhardt Ltd.,Healthcare,Healthcare,India
+YESBANK.NS,YESBANK,Yes Bank Ltd.,Financial Services,Financial Services,India
+ZFCVINDIA.NS,ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,Automobile and Auto Components,Automobile and Auto Components,India
+ZEEL.NS,ZEEL,Zee Entertainment Enterprises Ltd.,Media Entertainment & Publication,Media Entertainment & Publication,India
+ZENTEC.NS,ZENTEC,Zen Technologies Ltd.,Capital Goods,Capital Goods,India
+ZENSARTECH.NS,ZENSARTECH,Zensar Technolgies Ltd.,Information Technology,Information Technology,India
+ZYDUSLIFE.NS,ZYDUSLIFE,Zydus Lifesciences Ltd.,Healthcare,Healthcare,India
+ZYDUSWELL.NS,ZYDUSWELL,Zydus Wellness Ltd.,Fast Moving Consumer Goods,Fast Moving Consumer Goods,India
+ECLERX.NS,ECLERX,eClerx Services Ltd.,Services,Services,India

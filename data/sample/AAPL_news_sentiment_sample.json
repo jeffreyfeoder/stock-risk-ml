@@ -1,0 +1,164 @@
+{
+  "_note": "Hand-built, realistic sample matching Alpha Vantage's documented NEWS_SENTIMENT response shape -- used to validate src/sentiment.py's parsing/aggregation logic offline. The free-tier 'demo' API key does not return real NEWS_SENTIMENT data for any symbol (unlike TIME_SERIES_DAILY, which works for IBM), so this could not be captured from a live demo-key call. Use your own free Alpha Vantage key to fetch real articles.",
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat-Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Apple's Services Revenue Hits Record High as Hardware Growth Slows",
+      "url": "https://example.com/news/apple-services-record",
+      "time_published": "20260818T133000",
+      "authors": ["Jane Reporter"],
+      "summary": "Apple Inc. reported record services revenue this quarter, offsetting slower iPhone hardware sales growth as the company leans further into subscriptions and App Store income.",
+      "source": "Example Financial Wire",
+      "overall_sentiment_score": 0.312,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.91", "ticker_sentiment_score": "0.34", "ticker_sentiment_label": "Somewhat-Bullish"}
+      ]
+    },
+    {
+      "title": "Analysts Raise Apple Price Target Ahead of Holiday Quarter",
+      "url": "https://example.com/news/apple-price-target-raised",
+      "time_published": "20260817T151500",
+      "authors": ["Market Desk"],
+      "summary": "Several sell-side analysts raised their price targets on Apple shares citing strong early demand signals for the holiday shopping season.",
+      "source": "Example Markets Daily",
+      "overall_sentiment_score": 0.402,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.87", "ticker_sentiment_score": "0.41", "ticker_sentiment_label": "Bullish"}
+      ]
+    },
+    {
+      "title": "Apple Supplier Reports Weaker-Than-Expected Component Orders",
+      "url": "https://example.com/news/apple-supplier-weak-orders",
+      "time_published": "20260817T091000",
+      "authors": ["Supply Chain News"],
+      "summary": "A key Apple component supplier flagged softer-than-expected order volumes for the current quarter, raising questions about near-term device demand.",
+      "source": "Example Supply Chain Report",
+      "overall_sentiment_score": -0.221,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.62", "ticker_sentiment_score": "-0.19", "ticker_sentiment_label": "Somewhat-Bearish"}
+      ]
+    },
+    {
+      "title": "Apple Faces Fresh Antitrust Scrutiny Over App Store Fees in EU",
+      "url": "https://example.com/news/apple-eu-antitrust-app-store",
+      "time_published": "20260816T173000",
+      "authors": ["Regulatory Beat"],
+      "summary": "EU regulators opened a new review of Apple's App Store fee structure, the latest in a series of antitrust actions targeting the company's platform practices.",
+      "source": "Example Policy Wire",
+      "overall_sentiment_score": -0.355,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.78", "ticker_sentiment_score": "-0.37", "ticker_sentiment_label": "Bearish"}
+      ]
+    },
+    {
+      "title": "Apple Announces New AI Features Coming to Next OS Update",
+      "url": "https://example.com/news/apple-ai-features-os-update",
+      "time_published": "20260816T101500",
+      "authors": ["Tech Today"],
+      "summary": "Apple unveiled a set of new on-device AI features planned for its next major operating system release, aiming to compete more directly with rivals' AI assistants.",
+      "source": "Example Tech Wire",
+      "overall_sentiment_score": 0.276,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.95", "ticker_sentiment_score": "0.29", "ticker_sentiment_label": "Somewhat-Bullish"}
+      ]
+    },
+    {
+      "title": "Market Wrap: Tech Stocks Mixed as Investors Weigh Rate Outlook",
+      "url": "https://example.com/news/market-wrap-tech-mixed",
+      "time_published": "20260815T210000",
+      "authors": ["Market Desk"],
+      "summary": "Major tech names including Apple traded mixed Friday as investors weighed the latest signals on the interest rate outlook.",
+      "source": "Example Markets Daily",
+      "overall_sentiment_score": 0.041,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.35", "ticker_sentiment_score": "0.05", "ticker_sentiment_label": "Neutral"}
+      ]
+    },
+    {
+      "title": "Apple's Wearables Segment Sees Renewed Growth on New Watch Lineup",
+      "url": "https://example.com/news/apple-wearables-growth",
+      "time_published": "20260815T140000",
+      "authors": ["Jane Reporter"],
+      "summary": "Apple's wearables, home and accessories segment returned to growth this quarter, helped by the latest Apple Watch lineup.",
+      "source": "Example Financial Wire",
+      "overall_sentiment_score": 0.298,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.83", "ticker_sentiment_score": "0.30", "ticker_sentiment_label": "Somewhat-Bullish"}
+      ]
+    },
+    {
+      "title": "Apple Delays Select Feature Rollout in Certain Regions, Report Says",
+      "url": "https://example.com/news/apple-feature-delay-report",
+      "time_published": "20260814T163000",
+      "authors": ["Tech Today"],
+      "summary": "Apple is reportedly delaying the rollout of a subset of new software features in certain regions pending regulatory review.",
+      "source": "Example Tech Wire",
+      "overall_sentiment_score": -0.184,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.71", "ticker_sentiment_score": "-0.16", "ticker_sentiment_label": "Somewhat-Bearish"}
+      ]
+    },
+    {
+      "title": "Apple Expands Manufacturing Investment Outside China",
+      "url": "https://example.com/news/apple-manufacturing-expansion",
+      "time_published": "20260814T093000",
+      "authors": ["Supply Chain News"],
+      "summary": "Apple continues to diversify its manufacturing footprint with new investment commitments outside China, part of a multi-year supply chain strategy.",
+      "source": "Example Supply Chain Report",
+      "overall_sentiment_score": 0.187,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.68", "ticker_sentiment_score": "0.21", "ticker_sentiment_label": "Somewhat-Bullish"}
+      ]
+    },
+    {
+      "title": "Apple Stock Steady Ahead of Next Earnings Report",
+      "url": "https://example.com/news/apple-stock-steady-earnings",
+      "time_published": "20260813T200000",
+      "authors": ["Market Desk"],
+      "summary": "Apple shares traded in a narrow range as investors positioned ahead of the company's upcoming quarterly earnings report.",
+      "source": "Example Markets Daily",
+      "overall_sentiment_score": 0.032,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.40", "ticker_sentiment_score": "0.02", "ticker_sentiment_label": "Neutral"}
+      ]
+    },
+    {
+      "title": "Apple Sued Over Alleged Patent Infringement in Display Tech",
+      "url": "https://example.com/news/apple-patent-lawsuit-display",
+      "time_published": "20260813T110000",
+      "authors": ["Regulatory Beat"],
+      "summary": "A display technology firm filed suit against Apple alleging patent infringement related to display components used in recent devices.",
+      "source": "Example Policy Wire",
+      "overall_sentiment_score": -0.298,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.66", "ticker_sentiment_score": "-0.27", "ticker_sentiment_label": "Somewhat-Bearish"}
+      ]
+    },
+    {
+      "title": "Apple's App Store Sees Strong Holiday Season Developer Activity",
+      "url": "https://example.com/news/apple-app-store-holiday-activity",
+      "time_published": "20260812T160000",
+      "authors": ["Tech Today"],
+      "summary": "Developer activity on Apple's App Store picked up heading into the holiday season, with a notable rise in new app submissions.",
+      "source": "Example Tech Wire",
+      "overall_sentiment_score": 0.223,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {"ticker": "AAPL", "relevance_score": "0.74", "ticker_sentiment_score": "0.24", "ticker_sentiment_label": "Somewhat-Bullish"}
+      ]
+    }
+  ]
+}

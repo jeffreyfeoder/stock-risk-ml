@@ -1,0 +1,1002 @@
+symbol,market,sector,as_of_date,predicted_direction,confidence,model_used
+MMM,US,Industrials,2026-08-18,Up,0.5040650036742195,random_forest
+AOS,US,Industrials,2026-08-18,Up,0.5092818083242234,random_forest
+ABT,US,Health Care,2026-08-18,Down,0.5004875185465154,random_forest
+ABBV,US,Health Care,2026-08-18,Up,0.507117151625522,random_forest
+ACN,US,Information Technology,2026-08-18,Up,0.5133948201622142,random_forest
+ADBE,US,Information Technology,2026-08-18,Down,0.5026256863801378,random_forest
+AMD,US,Information Technology,2026-08-18,Down,0.5027038372395609,random_forest
+AES,US,Utilities,2026-08-18,Down,0.5013778827246524,random_forest
+AFL,US,Financials,2026-08-18,Up,0.5186573933362671,random_forest
+A,US,Health Care,2026-08-18,Down,0.5011982668023975,random_forest
+APD,US,Materials,2026-08-18,Down,0.5085878424592444,random_forest
+ABNB,US,Consumer Discretionary,2026-08-18,Down,0.5040064114374521,random_forest
+AKAM,US,Information Technology,2026-08-18,Up,0.5289459418889126,random_forest
+ALB,US,Materials,2026-08-18,Up,0.5064401545951752,random_forest
+ARE,US,Real Estate,2026-08-18,Up,0.5319183387172876,random_forest
+ALGN,US,Health Care,2026-08-18,Up,0.5223901930054761,random_forest
+ALLE,US,Industrials,2026-08-18,Up,0.5132624151249501,random_forest
+LNT,US,Utilities,2026-08-18,Up,0.5261715270434886,random_forest
+ALL,US,Financials,2026-08-18,Up,0.5176807769419469,random_forest
+GOOGL,US,Communication Services,2026-08-18,Down,0.512993171443624,random_forest
+GOOG,US,Communication Services,2026-08-18,Down,0.5134725884285319,random_forest
+MO,US,Consumer Staples,2026-08-18,Up,0.50778212885464,random_forest
+AMZN,US,Consumer Discretionary,2026-08-18,Up,0.5081825659831253,random_forest
+AMCR,US,Materials,2026-08-18,Up,0.5050993527101675,random_forest
+AEE,US,Utilities,2026-08-18,Up,0.5234397872963256,random_forest
+AEP,US,Utilities,2026-08-18,Up,0.5231867550251903,random_forest
+AXP,US,Financials,2026-08-18,Down,0.5061192895486983,random_forest
+AIG,US,Financials,2026-08-18,Up,0.5194624014456068,random_forest
+AMT,US,Real Estate,2026-08-18,Up,0.5045785780070366,random_forest
+AWK,US,Utilities,2026-08-18,Up,0.501023609088306,random_forest
+AMP,US,Financials,2026-08-18,Down,0.5135598148967675,random_forest
+AME,US,Industrials,2026-08-18,Up,0.5040343364875531,random_forest
+AMGN,US,Health Care,2026-08-18,Down,0.524288862672103,random_forest
+APH,US,Information Technology,2026-08-18,Up,0.531933543560607,random_forest
+ADI,US,Information Technology,2026-08-18,Down,0.5100840239498987,random_forest
+AON,US,Financials,2026-08-18,Up,0.5001139855784542,random_forest
+APA,US,Energy,2026-08-18,Up,0.503093738599824,random_forest
+APO,US,Financials,2026-08-18,Up,0.5253923187168494,random_forest
+AAPL,US,Information Technology,2026-08-18,Down,0.5038932544783893,random_forest
+AMAT,US,Information Technology,2026-08-18,Down,0.5101247148610848,random_forest
+APP,US,Communication Services,2026-08-18,Down,0.5070514795767109,random_forest
+APTV,US,Consumer Discretionary,2026-08-18,Up,0.5072431922336577,random_forest
+ACGL,US,Financials,2026-08-18,Up,0.5219299090892806,random_forest
+ADM,US,Consumer Staples,2026-08-18,Up,0.5037180551685296,random_forest
+ARES,US,Financials,2026-08-18,Up,0.526318537097006,random_forest
+ANET,US,Information Technology,2026-08-18,Up,0.5071237686886476,random_forest
+AJG,US,Financials,2026-08-18,Up,0.5200464494990156,random_forest
+AIZ,US,Financials,2026-08-18,Up,0.5051367798947568,random_forest
+T,US,Communication Services,2026-08-18,Up,0.5025790156657817,random_forest
+ATO,US,Utilities,2026-08-18,Up,0.5203638317762731,random_forest
+ADSK,US,Information Technology,2026-08-18,Up,0.5049042347240286,random_forest
+ADP,US,Industrials,2026-08-18,Up,0.503365408840934,random_forest
+AZO,US,Consumer Discretionary,2026-08-18,Down,0.5267136144009346,random_forest
+AVB,US,Real Estate,2026-08-14,Up,0.5079820624927638,random_forest
+AVY,US,Materials,2026-08-18,Down,0.5011348541046647,random_forest
+AXON,US,Industrials,2026-08-18,Down,0.504474567085846,random_forest
+BKR,US,Energy,2026-08-18,Up,0.5034807132469088,random_forest
+BALL,US,Materials,2026-08-18,Up,0.5039896658989418,random_forest
+BAC,US,Financials,2026-08-18,Down,0.5086921971746332,random_forest
+BAX,US,Health Care,2026-08-18,Up,0.5124478549120998,random_forest
+BDX,US,Health Care,2026-08-18,Down,0.5048757405689118,random_forest
+BRK-B,US,Financials,2026-08-18,Down,0.5070293145355369,random_forest
+BBY,US,Consumer Discretionary,2026-08-18,Up,0.5067541040578619,random_forest
+TECH,US,Health Care,2026-08-18,Down,0.5045530900344137,random_forest
+BIIB,US,Health Care,2026-08-18,Up,0.5020335410564308,random_forest
+BLK,US,Financials,2026-08-18,Down,0.5468615802783594,random_forest
+BX,US,Financials,2026-08-18,Up,0.519516025934533,random_forest
+XYZ,US,Financials,2026-08-18,Up,0.541622179080646,random_forest
+BNY,US,Financials,2026-08-18,Down,0.5011305918431852,random_forest
+BA,US,Industrials,2026-08-18,Up,0.5198160117067625,random_forest
+BKNG,US,Consumer Discretionary,2026-08-18,Up,0.5005386226924526,random_forest
+BSX,US,Health Care,2026-08-18,Down,0.5025678491556635,random_forest
+BMY,US,Health Care,2026-08-18,Up,0.5034957821996412,random_forest
+AVGO,US,Information Technology,2026-08-18,Up,0.5059520275545689,random_forest
+BR,US,Industrials,2026-08-18,Down,0.5013419155761127,random_forest
+BRO,US,Financials,2026-08-18,Up,0.5059014464679692,random_forest
+BF-B,US,Consumer Staples,2026-08-18,Up,0.5347269067455721,random_forest
+BLDR,US,Industrials,2026-08-18,Up,0.5314805518776542,random_forest
+BG,US,Consumer Staples,2026-08-18,Up,0.5029826371325965,random_forest
+BXP,US,Real Estate,2026-08-18,Up,0.5157163696646009,random_forest
+CHRW,US,Industrials,2026-08-18,Up,0.5218442012315758,random_forest
+CDNS,US,Information Technology,2026-08-18,Down,0.5149663966323729,random_forest
+CPT,US,Real Estate,2026-08-18,Up,0.5119986972887567,random_forest
+COF,US,Financials,2026-08-18,Up,0.5106100292388125,random_forest
+CAH,US,Health Care,2026-08-18,Up,0.5071293727873281,random_forest
+CCL,US,Consumer Discretionary,2026-08-18,Up,0.5118857335390095,random_forest
+CARR,US,Industrials,2026-08-18,Up,0.5058210373591493,random_forest
+CVNA,US,Consumer Discretionary,2026-08-18,Up,0.510840581154663,random_forest
+CASY,US,Consumer Staples,2026-08-18,Down,0.518441371122595,random_forest
+CAT,US,Industrials,2026-08-18,Down,0.5042475588548432,random_forest
+CBOE,US,Financials,2026-08-18,Up,0.508797350964278,random_forest
+CBRE,US,Real Estate,2026-08-18,Up,0.5083007576229328,random_forest
+CDW,US,Information Technology,2026-08-18,Up,0.5290053080895849,random_forest
+COR,US,Health Care,2026-08-18,Up,0.500349131044842,random_forest
+CNC,US,Health Care,2026-08-18,Up,0.5150844759206467,random_forest
+CNP,US,Utilities,2026-08-18,Up,0.5253028004745556,random_forest
+CF,US,Materials,2026-08-18,Up,0.5069237906312055,random_forest
+CRL,US,Health Care,2026-08-18,Down,0.5119435488812648,random_forest
+SCHW,US,Financials,2026-08-18,Down,0.5071848537589518,random_forest
+CHTR,US,Communication Services,2026-08-18,Up,0.5260826198883379,random_forest
+CVX,US,Energy,2026-08-18,Up,0.5084660666846811,random_forest
+CMG,US,Consumer Discretionary,2026-08-18,Up,0.5055271749880561,random_forest
+CB,US,Financials,2026-08-18,Down,0.5077195023017339,random_forest
+CHD,US,Consumer Staples,2026-08-18,Up,0.51700070578632,random_forest
+CIEN,US,Information Technology,2026-08-18,Down,0.5125475713794638,random_forest
+CI,US,Health Care,2026-08-18,Up,0.5024285476635584,random_forest
+CINF,US,Financials,2026-08-18,Up,0.5120844947891575,random_forest
+CTAS,US,Industrials,2026-08-18,Up,0.503276473868905,random_forest
+CSCO,US,Information Technology,2026-08-18,Up,0.5154712262296566,random_forest
+C,US,Financials,2026-08-18,Up,0.5223764951068391,random_forest
+CFG,US,Financials,2026-08-18,Up,0.5072198647157224,random_forest
+CLX,US,Consumer Staples,2026-08-18,Down,0.500489396260812,random_forest
+CME,US,Financials,2026-08-18,Up,0.5064511227757222,random_forest
+CMS,US,Utilities,2026-08-18,Up,0.5253703032937878,random_forest
+KO,US,Consumer Staples,2026-08-18,Down,0.5080283709145852,random_forest
+CTSH,US,Information Technology,2026-08-18,Up,0.517083404260202,random_forest
+COHR,US,Information Technology,2026-08-18,Down,0.5219475192080547,random_forest
+COIN,US,Financials,2026-08-18,Up,0.522241569802852,random_forest
+CL,US,Consumer Staples,2026-08-18,Up,0.5058917561048349,random_forest
+CMCSA,US,Communication Services,2026-08-18,Up,0.5002431178471238,random_forest
+FIX,US,Industrials,2026-08-18,Down,0.5186820916132169,random_forest
+COP,US,Energy,2026-08-18,Up,0.5061138260851231,random_forest
+ED,US,Utilities,2026-08-18,Up,0.5202252265311652,random_forest
+STZ,US,Consumer Staples,2026-08-18,Up,0.5136527112854776,random_forest
+CEG,US,Utilities,2026-08-18,Down,0.5037939902607587,random_forest
+COO,US,Health Care,2026-08-18,Down,0.5004620045141204,random_forest
+CPRT,US,Industrials,2026-08-18,Up,0.5007016973246641,random_forest
+GLW,US,Information Technology,2026-08-18,Up,0.5134395881318347,random_forest
+CPAY,US,Financials,2026-08-18,Down,0.5119481553649141,random_forest
+CTVA,US,Materials,2026-08-18,Up,0.5075445516208452,random_forest
+CSGP,US,Real Estate,2026-08-18,Up,0.5033979473138099,random_forest
+COST,US,Consumer Staples,2026-08-18,Down,0.5285583015951474,random_forest
+CRH,US,Materials,2026-08-18,Up,0.5183026819668666,random_forest
+CRWD,US,Information Technology,2026-08-18,Up,0.5062694143504668,random_forest
+CCI,US,Real Estate,2026-08-18,Up,0.5065051145455907,random_forest
+CSX,US,Industrials,2026-08-18,Up,0.5060750450617602,random_forest
+CMI,US,Industrials,2026-08-18,Down,0.5105560480492506,random_forest
+CVS,US,Health Care,2026-08-18,Up,0.5426734878666882,random_forest
+DHR,US,Health Care,2026-08-18,Up,0.5042231374350006,random_forest
+DRI,US,Consumer Discretionary,2026-08-18,Down,0.5003780365233121,random_forest
+DDOG,US,Information Technology,2026-08-18,Up,0.5164083340851326,random_forest
+DVA,US,Health Care,2026-08-18,Up,0.5067691859675242,random_forest
+DECK,US,Consumer Discretionary,2026-08-18,Up,0.5153784013081362,random_forest
+DE,US,Industrials,2026-08-18,Down,0.5067866023781491,random_forest
+DELL,US,Information Technology,2026-08-18,Down,0.5212354126996626,random_forest
+DAL,US,Industrials,2026-08-18,Up,0.5325911240807586,random_forest
+DVN,US,Energy,2026-08-18,Up,0.5050456265329895,random_forest
+DXCM,US,Health Care,2026-08-18,Down,0.5036437916784803,random_forest
+FANG,US,Energy,2026-08-18,Up,0.5042492741387983,random_forest
+DLR,US,Real Estate,2026-08-18,Up,0.5030431046762022,random_forest
+DG,US,Consumer Staples,2026-08-18,Up,0.5090716683824631,random_forest
+DLTR,US,Consumer Staples,2026-08-18,Up,0.5075475179532576,random_forest
+D,US,Utilities,2026-08-18,Up,0.5234082017284722,random_forest
+DPZ,US,Consumer Discretionary,2026-08-18,Down,0.5112782730349157,random_forest
+DASH,US,Consumer Discretionary,2026-08-18,Down,0.5048023810969323,random_forest
+DOV,US,Industrials,2026-08-18,Up,0.5060120117977248,random_forest
+DOW,US,Materials,2026-08-18,Up,0.5000821334817621,random_forest
+DHI,US,Consumer Discretionary,2026-08-18,Up,0.504769606909196,random_forest
+DTE,US,Utilities,2026-08-18,Up,0.5204016226204264,random_forest
+DUK,US,Utilities,2026-08-18,Up,0.5201238356652184,random_forest
+DD,US,Industrials,2026-08-18,Up,0.5223756534994961,random_forest
+ETN,US,Industrials,2026-08-18,Up,0.5032897899454191,random_forest
+EBAY,US,Consumer Discretionary,2026-08-18,Up,0.5077578366401179,random_forest
+ECHO,US,Communication Services,2026-08-18,Up,0.5085081003497245,random_forest
+ECL,US,Materials,2026-08-18,Up,0.5018792443087667,random_forest
+EIX,US,Utilities,2026-08-18,Up,0.5239200266823194,random_forest
+EW,US,Health Care,2026-08-18,Down,0.500572128845711,random_forest
+ELV,US,Health Care,2026-08-18,Down,0.530500031418031,random_forest
+EME,US,Industrials,2026-08-18,Down,0.5116502654169035,random_forest
+EMR,US,Industrials,2026-08-18,Up,0.5093950646849816,random_forest
+ETR,US,Utilities,2026-08-18,Up,0.5223237534120367,random_forest
+EOG,US,Energy,2026-08-18,Up,0.5102907170687225,random_forest
+EQT,US,Energy,2026-08-18,Up,0.5077096044604311,random_forest
+EFX,US,Industrials,2026-08-18,Up,0.5033839664728846,random_forest
+EQIX,US,Real Estate,2026-08-18,Down,0.5356437220483414,random_forest
+EQR,US,Real Estate,2026-08-14,Up,0.5091526005992026,random_forest
+ERIE,US,Financials,2026-08-18,Up,0.5049425014294927,random_forest
+ESS,US,Real Estate,2026-08-18,Down,0.5007079299289734,random_forest
+EL,US,Consumer Staples,2026-08-18,Up,0.5039901754568086,random_forest
+EG,US,Financials,2026-08-18,Down,0.501945627970076,random_forest
+EVRG,US,Utilities,2026-08-18,Up,0.5217803567349871,random_forest
+ES,US,Utilities,2026-08-18,Up,0.519996372843799,random_forest
+EXC,US,Utilities,2026-08-18,Up,0.5231857895772564,random_forest
+EXE,US,Energy,2026-08-18,Up,0.5063555165940947,random_forest
+EXPE,US,Consumer Discretionary,2026-08-18,Down,0.502113500628108,random_forest
+EXPD,US,Industrials,2026-08-18,Down,0.5024430669168478,random_forest
+EXR,US,Real Estate,2026-08-18,Up,0.5084047742493271,random_forest
+XOM,US,Energy,2026-08-18,Up,0.5090216365553877,random_forest
+FFIV,US,Information Technology,2026-08-18,Down,0.5143191665244885,random_forest
+FDS,US,Financials,2026-08-18,Down,0.5108326703299926,random_forest
+FICO,US,Information Technology,2026-08-18,Down,0.5101982579779452,random_forest
+FAST,US,Industrials,2026-08-18,Down,0.5012331512012029,random_forest
+FRT,US,Real Estate,2026-08-18,Up,0.5089232435419456,random_forest
+FDX,US,Industrials,2026-08-18,Down,0.511055792918428,random_forest
+FERG,US,Industrials,2026-08-18,Up,0.5049094419364146,random_forest
+FIS,US,Financials,2026-08-18,Up,0.5328905966552479,random_forest
+FITB,US,Financials,2026-08-18,Down,0.5128467309598308,random_forest
+FSLR,US,Information Technology,2026-08-18,Up,0.51695778018658,random_forest
+FE,US,Utilities,2026-08-18,Up,0.5240228009716001,random_forest
+FISV,US,Financials,2026-08-18,Up,0.5452876168741485,random_forest
+FLEX,US,Information Technology,2026-08-18,Up,0.5153299588033725,random_forest
+F,US,Consumer Discretionary,2026-08-18,Up,0.5223563909923694,random_forest
+FTNT,US,Information Technology,2026-08-18,Up,0.5171408400140122,random_forest
+FTV,US,Industrials,2026-08-18,Up,0.5114388154384129,random_forest
+FOXA,US,Communication Services,2026-08-18,Down,0.5009664184413583,random_forest
+FOX,US,Communication Services,2026-08-18,Down,0.5034486022116627,random_forest
+BEN,US,Financials,2026-08-18,Up,0.5196168899129698,random_forest
+FCX,US,Materials,2026-08-18,Up,0.5006254946206954,random_forest
+GRMN,US,Consumer Discretionary,2026-08-18,Up,0.5020521703769619,random_forest
+IT,US,Information Technology,2026-08-18,Up,0.5103902250494887,random_forest
+GE,US,Industrials,2026-08-18,Down,0.5085532942776763,random_forest
+GEHC,US,Health Care,2026-08-18,Up,0.5005531321326953,random_forest
+GEV,US,Industrials,2026-08-18,Down,0.5057952408134796,random_forest
+GEN,US,Information Technology,2026-08-18,Up,0.5079285447370583,random_forest
+GNRC,US,Industrials,2026-08-18,Up,0.5017680815184086,random_forest
+GD,US,Industrials,2026-08-18,Down,0.5070754308585125,random_forest
+GIS,US,Consumer Staples,2026-08-18,Up,0.5103080884873797,random_forest
+GM,US,Consumer Discretionary,2026-08-18,Up,0.5383987578163056,random_forest
+GPC,US,Consumer Discretionary,2026-08-18,Up,0.5057042687333915,random_forest
+GILD,US,Health Care,2026-08-18,Down,0.5008677032514153,random_forest
+GPN,US,Financials,2026-08-18,Up,0.5127792217236383,random_forest
+GL,US,Financials,2026-08-18,Up,0.5196544644202716,random_forest
+GDDY,US,Information Technology,2026-08-18,Up,0.5151972239215282,random_forest
+GS,US,Financials,2026-08-18,Down,0.5186173870863036,random_forest
+HAL,US,Energy,2026-08-18,Up,0.5088718930468388,random_forest
+HIG,US,Financials,2026-08-18,Up,0.5186642097270074,random_forest
+HAS,US,Consumer Discretionary,2026-08-18,Up,0.503803797250621,random_forest
+HCA,US,Health Care,2026-08-18,Down,0.5167045832740971,random_forest
+DOC,US,Real Estate,2026-08-18,Up,0.5057513999783242,random_forest
+HSIC,US,Health Care,2026-08-18,Down,0.5003355037096228,random_forest
+HSY,US,Consumer Staples,2026-08-18,Up,0.5032736935927054,random_forest
+HPE,US,Information Technology,2026-08-18,Up,0.5110419314744837,random_forest
+HLT,US,Consumer Discretionary,2026-08-18,Down,0.5164444732940072,random_forest
+HD,US,Consumer Discretionary,2026-08-18,Down,0.5153556391163345,random_forest
+HON,US,Industrials,2026-08-18,Up,0.5114669393343042,random_forest
+HRL,US,Consumer Staples,2026-08-18,Down,0.5010495958615824,random_forest
+HST,US,Real Estate,2026-08-18,Up,0.5070294467233755,random_forest
+HWM,US,Industrials,2026-08-18,Up,0.5044654533720472,random_forest
+HPQ,US,Information Technology,2026-08-18,Up,0.5040283366468891,random_forest
+HUBB,US,Industrials,2026-08-18,Up,0.5007693426841385,random_forest
+HUM,US,Health Care,2026-08-18,Down,0.5053587857633565,random_forest
+HBAN,US,Financials,2026-08-18,Down,0.506004574769901,random_forest
+HII,US,Industrials,2026-08-18,Down,0.5046068873003338,random_forest
+IBM,US,Information Technology,2026-08-18,Up,0.5121528701539055,random_forest
+IEX,US,Industrials,2026-08-18,Up,0.5007767154851301,random_forest
+IDXX,US,Health Care,2026-08-18,Down,0.515241026735358,random_forest
+ITW,US,Industrials,2026-08-18,Up,0.5050716780358595,random_forest
+INCY,US,Health Care,2026-08-18,Up,0.5072366060094748,random_forest
+IR,US,Industrials,2026-08-18,Up,0.5116025842537567,random_forest
+PODD,US,Health Care,2026-08-18,Up,0.5099132356674436,random_forest
+INTC,US,Information Technology,2026-08-18,Up,0.5283692061664318,random_forest
+IBKR,US,Financials,2026-08-18,Up,0.5225427935643473,random_forest
+ICE,US,Financials,2026-08-18,Up,0.5147685380529977,random_forest
+IFF,US,Materials,2026-08-18,Up,0.5144041675461142,random_forest
+IP,US,Materials,2026-08-18,Up,0.5059250820196852,random_forest
+INTU,US,Information Technology,2026-08-18,Down,0.5063785935331466,random_forest
+ISRG,US,Health Care,2026-08-18,Down,0.5208139741490544,random_forest
+IVZ,US,Financials,2026-08-18,Up,0.520692678787529,random_forest
+INVH,US,Real Estate,2026-08-18,Up,0.5035997991751563,random_forest
+IQV,US,Health Care,2026-08-18,Up,0.5031118974090448,random_forest
+IRM,US,Real Estate,2026-08-18,Up,0.5028656164259444,random_forest
+JBHT,US,Industrials,2026-08-18,Up,0.5005934297452395,random_forest
+JBL,US,Information Technology,2026-08-18,Down,0.5207361507170796,random_forest
+JKHY,US,Financials,2026-08-18,Up,0.5215205978321726,random_forest
+J,US,Industrials,2026-08-18,Up,0.5041940387343529,random_forest
+JNJ,US,Health Care,2026-08-18,Up,0.5015549510117822,random_forest
+JCI,US,Industrials,2026-08-18,Up,0.5067320862918951,random_forest
+JPM,US,Financials,2026-08-18,Down,0.5260939764619652,random_forest
+KVUE,US,Consumer Staples,2026-08-18,Up,0.5051963991308412,random_forest
+KDP,US,Consumer Staples,2026-08-18,Up,0.5126688025422433,random_forest
+KEY,US,Financials,2026-08-18,Up,0.5125752975805155,random_forest
+KEYS,US,Information Technology,2026-08-18,Down,0.5097378944446118,random_forest
+KMB,US,Consumer Staples,2026-08-18,Up,0.5090407121000482,random_forest
+KIM,US,Real Estate,2026-08-18,Up,0.5034010490835071,random_forest
+KMI,US,Energy,2026-08-18,Up,0.506768527751534,random_forest
+KKR,US,Financials,2026-08-18,Up,0.5467141194311527,random_forest
+KLAC,US,Information Technology,2026-08-18,Up,0.5108330287979668,random_forest
+KHC,US,Consumer Staples,2026-08-18,Up,0.5080331882758028,random_forest
+KR,US,Consumer Staples,2026-08-18,Up,0.5045024910393751,random_forest
+LHX,US,Industrials,2026-08-18,Up,0.5128029619919069,random_forest
+LH,US,Health Care,2026-08-18,Down,0.5150571009283172,random_forest
+LRCX,US,Information Technology,2026-08-18,Down,0.5167579404428109,random_forest
+LVS,US,Consumer Discretionary,2026-08-18,Up,0.5027220150838619,random_forest
+LDOS,US,Industrials,2026-08-18,Down,0.5029950100817151,random_forest
+LEN,US,Consumer Discretionary,2026-08-18,Up,0.5081327572256823,random_forest
+LII,US,Industrials,2026-08-18,Down,0.5033912688656155,random_forest
+LLY,US,Health Care,2026-08-18,Down,0.5148382949123302,random_forest
+LIN,US,Materials,2026-08-18,Down,0.523287649087407,random_forest
+LYV,US,Communication Services,2026-08-18,Up,0.5146253763255778,random_forest
+LMT,US,Industrials,2026-08-18,Down,0.5052996891113533,random_forest
+L,US,Financials,2026-08-18,Up,0.505105115690361,random_forest
+LOW,US,Consumer Discretionary,2026-08-18,Up,0.5032604026700014,random_forest
+LULU,US,Consumer Discretionary,2026-08-18,Up,0.5075109957554238,random_forest
+LITE,US,Information Technology,2026-08-18,Down,0.5237866894051231,random_forest
+LYB,US,Materials,2026-08-18,Down,0.5000980120477109,random_forest
+MTB,US,Financials,2026-08-18,Down,0.5023475219078934,random_forest
+MPC,US,Energy,2026-08-18,Down,0.5091402034048453,random_forest
+MAR,US,Consumer Discretionary,2026-08-18,Down,0.5187321051043976,random_forest
+MRSH,US,Financials,2026-08-18,Up,0.5070543134891057,random_forest
+MLM,US,Materials,2026-08-18,Down,0.5093714875781851,random_forest
+MRVL,US,Information Technology,2026-08-18,Up,0.5103687287823956,random_forest
+MAS,US,Industrials,2026-08-18,Up,0.5079259591627182,random_forest
+MA,US,Financials,2026-08-18,Down,0.5077350011542195,random_forest
+MKC,US,Consumer Staples,2026-08-18,Down,0.5018986192852157,random_forest
+MCD,US,Consumer Discretionary,2026-08-18,Up,0.5055339145289727,random_forest
+MCK,US,Health Care,2026-08-18,Down,0.5130045622073915,random_forest
+MDT,US,Health Care,2026-08-18,Down,0.5023903209595065,random_forest
+MRK,US,Health Care,2026-08-18,Up,0.5001726413027541,random_forest
+META,US,Communication Services,2026-08-18,Up,0.5257910834480749,random_forest
+MET,US,Financials,2026-08-18,Up,0.5217945745065182,random_forest
+MTD,US,Health Care,2026-08-18,Down,0.5258133493238415,random_forest
+MGM,US,Consumer Discretionary,2026-08-18,Up,0.5050816069123415,random_forest
+MCHP,US,Information Technology,2026-08-18,Up,0.5335365673387322,random_forest
+MU,US,Information Technology,2026-08-18,Down,0.5138654406586426,random_forest
+MSFT,US,Information Technology,2026-08-18,Down,0.5228579122521967,random_forest
+MAA,US,Real Estate,2026-08-18,Up,0.5069700150709235,random_forest
+MRNA,US,Health Care,2026-08-18,Up,0.5027259492949849,random_forest
+TAP,US,Consumer Staples,2026-08-18,Up,0.5262504729776514,random_forest
+MDLZ,US,Consumer Staples,2026-08-18,Up,0.5043912656229206,random_forest
+MPWR,US,Information Technology,2026-08-18,Down,0.5056075635117556,random_forest
+MNST,US,Consumer Staples,2026-08-18,Down,0.5024591993254746,random_forest
+MCO,US,Financials,2026-08-18,Down,0.5126550156624197,random_forest
+MS,US,Financials,2026-08-18,Up,0.5192251326075408,random_forest
+MOS,US,Materials,2026-08-18,Up,0.5059843446924333,random_forest
+MSI,US,Information Technology,2026-08-18,Down,0.5199898305101069,random_forest
+MSCI,US,Financials,2026-08-18,Down,0.5011290702565439,random_forest
+NDAQ,US,Financials,2026-08-18,Up,0.510002284176581,random_forest
+NTAP,US,Information Technology,2026-08-18,Up,0.5025001609897601,random_forest
+NFLX,US,Communication Services,2026-08-18,Up,0.5000826020274886,random_forest
+NEM,US,Materials,2026-08-18,Down,0.5028176560092823,random_forest
+NWSA,US,Communication Services,2026-08-18,Up,0.5037012851715786,random_forest
+NWS,US,Communication Services,2026-08-18,Up,0.5031148586206264,random_forest
+NEE,US,Utilities,2026-08-18,Up,0.5200786696940657,random_forest
+NKE,US,Consumer Discretionary,2026-08-18,Up,0.5295651611730346,random_forest
+NI,US,Utilities,2026-08-18,Up,0.5276488947528238,random_forest
+NDSN,US,Industrials,2026-08-18,Down,0.508924535128386,random_forest
+NSC,US,Industrials,2026-08-18,Down,0.5007525172009952,random_forest
+NTRS,US,Financials,2026-08-18,Down,0.5041656448182634,random_forest
+NOC,US,Industrials,2026-08-18,Down,0.515998795021172,random_forest
+NCLH,US,Consumer Discretionary,2026-08-18,Up,0.5394876830222187,random_forest
+NRG,US,Utilities,2026-08-18,Up,0.5538343793799779,random_forest
+NUE,US,Materials,2026-08-18,Down,0.5000101601588085,random_forest
+NVDA,US,Information Technology,2026-08-18,Up,0.5055038770550082,random_forest
+NVR,US,Consumer Discretionary,2026-08-18,Down,0.5310321067293129,random_forest
+NXPI,US,Information Technology,2026-08-18,Up,0.5396071870715157,random_forest
+ORLY,US,Consumer Discretionary,2026-08-18,Up,0.5035057488927406,random_forest
+OXY,US,Energy,2026-08-18,Up,0.5051373260924691,random_forest
+ODFL,US,Industrials,2026-08-18,Up,0.5071852859819505,random_forest
+OMC,US,Communication Services,2026-08-18,Up,0.5036811295500118,random_forest
+ON,US,Information Technology,2026-08-18,Up,0.5330795621378858,random_forest
+OKE,US,Energy,2026-08-18,Up,0.5049879048461299,random_forest
+ORCL,US,Information Technology,2026-08-18,Up,0.5157302011267885,random_forest
+OTIS,US,Industrials,2026-08-18,Up,0.5171598690569595,random_forest
+PCAR,US,Industrials,2026-08-18,Up,0.5093390785213606,random_forest
+PKG,US,Materials,2026-08-18,Up,0.5038686896758665,random_forest
+PLTR,US,Information Technology,2026-08-18,Up,0.5105728935341667,random_forest
+PANW,US,Information Technology,2026-08-18,Down,0.5146319847960981,random_forest
+PSKY,US,Communication Services,2026-08-18,Up,0.5079764317983144,random_forest
+PH,US,Industrials,2026-08-18,Down,0.5052721902678723,random_forest
+PAYX,US,Industrials,2026-08-18,Up,0.503267944798325,random_forest
+PYPL,US,Financials,2026-08-18,Up,0.5176659650240437,random_forest
+PNR,US,Industrials,2026-08-18,Up,0.5294864102733232,random_forest
+PEP,US,Consumer Staples,2026-08-18,Up,0.5009104271386744,random_forest
+PFE,US,Health Care,2026-08-18,Down,0.5030508795808097,random_forest
+PCG,US,Utilities,2026-08-18,Up,0.5165695880701636,random_forest
+PM,US,Consumer Staples,2026-08-18,Up,0.5105948770376322,random_forest
+PSX,US,Energy,2026-08-18,Down,0.506567203650242,random_forest
+PNW,US,Utilities,2026-08-18,Up,0.521943525174631,random_forest
+PNC,US,Financials,2026-08-18,Down,0.513842495835038,random_forest
+PPG,US,Materials,2026-08-18,Up,0.5064834477687604,random_forest
+PPL,US,Utilities,2026-08-18,Up,0.5256735136206393,random_forest
+PFG,US,Financials,2026-08-18,Up,0.5096509643558031,random_forest
+PG,US,Consumer Staples,2026-08-18,Up,0.5093413321991437,random_forest
+PGR,US,Financials,2026-08-18,Up,0.5267452949063675,random_forest
+PLD,US,Real Estate,2026-08-18,Up,0.5088852391088021,random_forest
+PRU,US,Financials,2026-08-18,Up,0.5168121406210517,random_forest
+PEG,US,Utilities,2026-08-18,Up,0.5227824822932451,random_forest
+PTC,US,Information Technology,2026-08-18,Up,0.5072358487763236,random_forest
+PSA,US,Real Estate,2026-08-18,Down,0.5178074650030371,random_forest
+PHM,US,Consumer Discretionary,2026-08-18,Up,0.5108614417850798,random_forest
+PWR,US,Industrials,2026-08-18,Up,0.5018068390414208,random_forest
+QCOM,US,Information Technology,2026-08-18,Up,0.5196250804396061,random_forest
+DGX,US,Health Care,2026-08-18,Up,0.5027483686413341,random_forest
+Q,US,Information Technology,2026-08-18,Up,0.5156529620203645,random_forest
+RL,US,Consumer Discretionary,2026-08-18,Down,0.5159480896367765,random_forest
+RJF,US,Financials,2026-08-18,Up,0.5145885613583747,random_forest
+RTX,US,Industrials,2026-08-18,Up,0.501413333911136,random_forest
+O,US,Real Estate,2026-08-18,Down,0.5017860024138303,random_forest
+REG,US,Real Estate,2026-08-18,Up,0.5080386088434196,random_forest
+REGN,US,Health Care,2026-08-18,Down,0.5355159697042454,random_forest
+RF,US,Financials,2026-08-18,Down,0.5171544708705993,random_forest
+RSG,US,Industrials,2026-08-18,Up,0.5040473524803137,random_forest
+RMD,US,Health Care,2026-08-18,Up,0.5004852038048466,random_forest
+RVTY,US,Health Care,2026-08-18,Up,0.5040344955899374,random_forest
+HOOD,US,Financials,2026-08-18,Up,0.5381491834710939,random_forest
+ROK,US,Industrials,2026-08-18,Up,0.5105897340538756,random_forest
+ROL,US,Industrials,2026-08-18,Up,0.5046970930229705,random_forest
+ROP,US,Information Technology,2026-08-18,Down,0.5212903996986201,random_forest
+ROST,US,Consumer Discretionary,2026-08-18,Up,0.5263328704508514,random_forest
+RCL,US,Consumer Discretionary,2026-08-18,Down,0.5057362478699997,random_forest
+SPGI,US,Financials,2026-08-18,Down,0.5075632511869205,random_forest
+CRM,US,Information Technology,2026-08-18,Up,0.5072641950248503,random_forest
+SNDK,US,Information Technology,2026-08-18,Down,0.5199056688381997,random_forest
+SBAC,US,Real Estate,2026-08-18,Up,0.5043750708694156,random_forest
+SLB,US,Energy,2026-08-18,Up,0.5040727275819082,random_forest
+STX,US,Information Technology,2026-08-18,Down,0.5273899369602482,random_forest
+SRE,US,Utilities,2026-08-18,Up,0.5199568716752672,random_forest
+NOW,US,Information Technology,2026-08-18,Up,0.5166810413670387,random_forest
+SHW,US,Materials,2026-08-18,Down,0.507972253157242,random_forest
+SPG,US,Real Estate,2026-08-18,Up,0.5069920459707549,random_forest
+SWKS,US,Information Technology,2026-08-18,Up,0.5390550861775331,random_forest
+SJM,US,Consumer Staples,2026-08-18,Up,0.5056895635026407,random_forest
+SW,US,Materials,2026-08-18,Up,0.5219553202461629,random_forest
+SNA,US,Industrials,2026-08-18,Down,0.5095896993846756,random_forest
+SOLV,US,Health Care,2026-08-18,Up,0.5036994050548579,random_forest
+SO,US,Utilities,2026-08-18,Up,0.520455607855432,random_forest
+LUV,US,Industrials,2026-08-18,Up,0.5345583140573418,random_forest
+SWK,US,Industrials,2026-08-18,Up,0.5261145992006129,random_forest
+SBUX,US,Consumer Discretionary,2026-08-18,Down,0.5002977995928204,random_forest
+STT,US,Financials,2026-08-18,Up,0.5033970986291688,random_forest
+STLD,US,Materials,2026-08-18,Up,0.5071063347547189,random_forest
+STE,US,Health Care,2026-08-18,Up,0.5055759674888655,random_forest
+SYK,US,Health Care,2026-08-18,Down,0.5109882583050595,random_forest
+SMCI,US,Information Technology,2026-08-18,Up,0.5142327385332095,random_forest
+SYF,US,Financials,2026-08-18,Up,0.501940879837483,random_forest
+SNPS,US,Information Technology,2026-08-18,Down,0.5160386533472128,random_forest
+SYY,US,Consumer Staples,2026-08-18,Up,0.5084608494813712,random_forest
+TMUS,US,Communication Services,2026-08-18,Up,0.5047792142542761,random_forest
+TROW,US,Financials,2026-08-18,Up,0.5228582308170924,random_forest
+TTWO,US,Communication Services,2026-08-18,Up,0.5043476158096074,random_forest
+TPR,US,Consumer Discretionary,2026-08-18,Up,0.5103975143348158,random_forest
+TRGP,US,Energy,2026-08-18,Up,0.5024691950423636,random_forest
+TGT,US,Consumer Staples,2026-08-18,Down,0.5018119210508403,random_forest
+TEL,US,Information Technology,2026-08-18,Up,0.5190431603689545,random_forest
+TDY,US,Information Technology,2026-08-18,Down,0.5239190412159506,random_forest
+TER,US,Information Technology,2026-08-18,Down,0.5180044135176958,random_forest
+TSLA,US,Consumer Discretionary,2026-08-18,Down,0.5136624260581666,random_forest
+TXN,US,Information Technology,2026-08-18,Up,0.5030043479003923,random_forest
+TPL,US,Energy,2026-08-18,Up,0.5073862263536025,random_forest
+TXT,US,Industrials,2026-08-18,Up,0.506002628901718,random_forest
+TMO,US,Health Care,2026-08-18,Down,0.5184787436598968,random_forest
+TJX,US,Consumer Discretionary,2026-08-18,Up,0.5084360566702592,random_forest
+TKO,US,Communication Services,2026-08-18,Up,0.5095850565165579,random_forest
+TTD,US,Communication Services,2026-08-18,Up,0.5439573923535659,random_forest
+TSCO,US,Consumer Discretionary,2026-08-18,Down,0.5018246480371658,random_forest
+TT,US,Industrials,2026-08-18,Up,0.5057961967938721,random_forest
+TDG,US,Industrials,2026-08-18,Down,0.5057019288883391,random_forest
+TRV,US,Financials,2026-08-18,Down,0.5052191150147392,random_forest
+TRMB,US,Information Technology,2026-08-18,Up,0.5145612325850355,random_forest
+TFC,US,Financials,2026-08-18,Down,0.508956868365618,random_forest
+TYL,US,Information Technology,2026-08-18,Down,0.5127920640675472,random_forest
+TSN,US,Consumer Staples,2026-08-18,Up,0.5049992160172281,random_forest
+USB,US,Financials,2026-08-18,Down,0.5031728077647013,random_forest
+UBER,US,Industrials,2026-08-18,Down,0.5002897473081456,random_forest
+UDR,US,Real Estate,2026-08-18,Up,0.5056359649108291,random_forest
+ULTA,US,Consumer Discretionary,2026-08-18,Down,0.5137272357130994,random_forest
+UNP,US,Industrials,2026-08-18,Down,0.5010384134707383,random_forest
+UAL,US,Industrials,2026-08-18,Up,0.5480218044481038,random_forest
+UPS,US,Industrials,2026-08-18,Up,0.50843524857708,random_forest
+URI,US,Industrials,2026-08-18,Down,0.5085527559639682,random_forest
+UNH,US,Health Care,2026-08-18,Down,0.5167553907024608,random_forest
+UHS,US,Health Care,2026-08-18,Up,0.5003447126260583,random_forest
+VLO,US,Energy,2026-08-18,Down,0.5166379479728096,random_forest
+VEEV,US,Health Care,2026-08-18,Down,0.5079147390537968,random_forest
+VTR,US,Real Estate,2026-08-18,Up,0.507925119286163,random_forest
+VLTO,US,Industrials,2026-08-18,Up,0.504829701953455,random_forest
+VRSN,US,Information Technology,2026-08-18,Up,0.5079978682991105,random_forest
+VRSK,US,Industrials,2026-08-18,Up,0.5049948336577205,random_forest
+VZ,US,Communication Services,2026-08-18,Up,0.5030768451600205,random_forest
+VRTX,US,Health Care,2026-08-18,Down,0.5175589017874851,random_forest
+VRT,US,Industrials,2026-08-18,Up,0.5052502340808901,random_forest
+VTRS,US,Health Care,2026-08-18,Up,0.5047938023654102,random_forest
+VICI,US,Real Estate,2026-08-18,Up,0.5040286954475328,random_forest
+V,US,Financials,2026-08-18,Down,0.515707205542271,random_forest
+VST,US,Utilities,2026-08-18,Up,0.5226227992425971,random_forest
+VMC,US,Materials,2026-08-18,Up,0.5046179627043692,random_forest
+WRB,US,Financials,2026-08-18,Up,0.5151480849308868,random_forest
+GWW,US,Industrials,2026-08-18,Down,0.5051387373924774,random_forest
+WAB,US,Industrials,2026-08-18,Down,0.5058623584810056,random_forest
+WMT,US,Consumer Staples,2026-08-18,Down,0.5002355320705505,random_forest
+DIS,US,Communication Services,2026-08-18,Up,0.5118586456772585,random_forest
+WBD,US,Communication Services,2026-08-18,Down,0.5010174710114362,random_forest
+WM,US,Industrials,2026-08-18,Up,0.5060406909965844,random_forest
+WAT,US,Health Care,2026-08-18,Down,0.5197365977405681,random_forest
+WEC,US,Utilities,2026-08-18,Up,0.5190830392021543,random_forest
+WFC,US,Financials,2026-08-18,Up,0.5252756905898979,random_forest
+WELL,US,Real Estate,2026-08-18,Up,0.50731777561273,random_forest
+WST,US,Health Care,2026-08-18,Down,0.5159003990636968,random_forest
+WDC,US,Information Technology,2026-08-18,Down,0.5104718564700589,random_forest
+WY,US,Real Estate,2026-08-18,Up,0.5292612514922534,random_forest
+WSM,US,Consumer Discretionary,2026-08-18,Up,0.5050412231084276,random_forest
+WMB,US,Energy,2026-08-18,Up,0.5117186586783634,random_forest
+WTW,US,Financials,2026-08-18,Down,0.5103122955737914,random_forest
+WDAY,US,Information Technology,2026-08-18,Up,0.5088988411714231,random_forest
+WYNN,US,Consumer Discretionary,2026-08-18,Up,0.5001193277663847,random_forest
+XEL,US,Utilities,2026-08-18,Up,0.5233443548608316,random_forest
+XYL,US,Industrials,2026-08-18,Up,0.5390720066773845,random_forest
+YUM,US,Consumer Discretionary,2026-08-18,Up,0.5065115480222805,random_forest
+ZBRA,US,Information Technology,2026-08-18,Down,0.5088069091116564,random_forest
+ZBH,US,Health Care,2026-08-18,Up,0.5019060341370825,random_forest
+ZTS,US,Health Care,2026-08-18,Up,0.5065870795624849,random_forest
+360ONE.NS,India,Financial Services,2026-08-18,Down,0.5285149298691705,random_forest
+3MINDIA.NS,India,Diversified,2026-08-18,Down,0.5335547438194599,random_forest
+ABB.NS,India,Capital Goods,2026-08-18,Down,0.5251740016044566,random_forest
+ACC.NS,India,Construction Materials,2026-08-18,Down,0.5244992577952079,random_forest
+ACMESOLAR.NS,India,Power,2026-08-18,Down,0.5148317785096965,random_forest
+AIAENG.NS,India,Capital Goods,2026-08-18,Down,0.5135898736644104,random_forest
+APLAPOLLO.NS,India,Capital Goods,2026-08-18,Down,0.5338046361347433,random_forest
+AUBANK.NS,India,Financial Services,2026-08-18,Down,0.5323399134909697,random_forest
+AWL.NS,India,Fast Moving Consumer Goods,2026-08-18,Up,0.5023975882993557,random_forest
+AADHARHFC.NS,India,Financial Services,2026-08-18,Down,0.5247464563777917,random_forest
+AARTIIND.NS,India,Chemicals,2026-08-18,Down,0.5302440510420672,random_forest
+AAVAS.NS,India,Financial Services,2026-08-18,Down,0.530861761991001,random_forest
+ABBOTINDIA.NS,India,Healthcare,2026-08-18,Down,0.5210051944991825,random_forest
+ACE.NS,India,Capital Goods,2026-08-18,Down,0.5119341954966681,random_forest
+ACUTAAS.NS,India,Healthcare,2026-08-18,Down,0.5022020993091536,random_forest
+ADANIENSOL.NS,India,Power,2026-08-18,Down,0.5249122474924062,random_forest
+ADANIENT.NS,India,Metals & Mining,2026-08-18,Down,0.5227733941599275,random_forest
+ADANIGREEN.NS,India,Power,2026-08-18,Down,0.5195855180042315,random_forest
+ADANIPORTS.NS,India,Services,2026-08-18,Down,0.5276303437804181,random_forest
+ADANIPOWER.NS,India,Power,2026-08-18,Down,0.5129899025301135,random_forest
+ATGL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5288811010822021,random_forest
+ABCAPITAL.NS,India,Financial Services,2026-08-18,Down,0.521536768614419,random_forest
+ABFRL.NS,India,Consumer Services,2026-08-18,Down,0.5188412519816974,random_forest
+ABLBL.NS,India,Consumer Services,2026-08-18,Down,0.5084298668163969,random_forest
+ABREL.NS,India,Realty,2026-08-18,Down,0.5212052398683769,random_forest
+ABSLAMC.NS,India,Financial Services,2026-08-18,Down,0.5317539010319747,random_forest
+CPPLUS.NS,India,Capital Goods,2026-08-18,Down,0.5085205483577793,random_forest
+AEGISLOG.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5050506080227282,random_forest
+AEGISVOPAK.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5020888592692788,random_forest
+AFCONS.NS,India,Construction,2026-08-18,Down,0.5162726727863788,random_forest
+AFFLE.NS,India,Information Technology,2026-08-18,Down,0.5172459163133869,random_forest
+AJANTPHARM.NS,India,Healthcare,2026-08-18,Down,0.5356584307033861,random_forest
+ALKEM.NS,India,Healthcare,2026-08-18,Down,0.5173504867203371,random_forest
+ABDL.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5137602943950477,random_forest
+ARE&M.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5163518722880729,random_forest
+AMBER.NS,India,Consumer Durables,2026-08-18,Down,0.5203085216925952,random_forest
+AMBUJACEM.NS,India,Construction Materials,2026-08-18,Down,0.5188843365809668,random_forest
+ANANDRATHI.NS,India,Financial Services,2026-08-18,Down,0.5374414598270973,random_forest
+ANANTRAJ.NS,India,Realty,2026-08-18,Down,0.5220077005414137,random_forest
+ANGELONE.NS,India,Financial Services,2026-08-18,Down,0.5208704594010933,random_forest
+ANTHEM.NS,India,Healthcare,2026-08-18,Down,0.5320366077477268,random_forest
+ANURAS.NS,India,Chemicals,2026-08-18,Down,0.5297187964480198,random_forest
+APARINDS.NS,India,Capital Goods,2026-08-18,Down,0.5088760263681044,random_forest
+APOLLOHOSP.NS,India,Healthcare,2026-08-18,Down,0.5236407571599415,random_forest
+APOLLOTYRE.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5239226263818801,random_forest
+APTUS.NS,India,Financial Services,2026-08-18,Down,0.5070404145748997,random_forest
+ASAHIINDIA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5201045988801103,random_forest
+ASHOKLEY.NS,India,Capital Goods,2026-08-18,Down,0.5033313002691779,random_forest
+ASIANPAINT.NS,India,Consumer Durables,2026-08-18,Down,0.5196653504965051,random_forest
+ASTERDM.NS,India,Healthcare,2026-08-18,Down,0.5205843239340326,random_forest
+ASTRAL.NS,India,Capital Goods,2026-08-18,Down,0.5164510050902082,random_forest
+ATHERENERG.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5232763071474932,random_forest
+ATUL.NS,India,Chemicals,2026-08-18,Down,0.5204383118104026,random_forest
+AUROPHARMA.NS,India,Healthcare,2026-08-18,Down,0.5255944167362213,random_forest
+AIIL.NS,India,Financial Services,2026-08-18,Down,0.5060535366377859,random_forest
+DMART.NS,India,Consumer Services,2026-08-18,Down,0.534616705480754,random_forest
+AXISBANK.NS,India,Financial Services,2026-08-18,Down,0.5282744321104553,random_forest
+BEML.NS,India,Capital Goods,2026-08-18,Down,0.5191776637625392,random_forest
+BLS.NS,India,Consumer Services,2026-08-18,Down,0.5143609476934814,random_forest
+BSE.NS,India,Financial Services,2026-08-18,Down,0.5145278743209374,random_forest
+BAJAJ-AUTO.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5232150207512657,random_forest
+BAJFINANCE.NS,India,Financial Services,2026-08-18,Down,0.5131288856573342,random_forest
+BAJAJFINSV.NS,India,Financial Services,2026-08-18,Down,0.5228865894995367,random_forest
+BAJAJHLDNG.NS,India,Financial Services,2026-08-18,Down,0.5201559997381988,random_forest
+BAJAJHFL.NS,India,Financial Services,2026-08-18,Down,0.543285719564915,random_forest
+BALKRISIND.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5197745463547427,random_forest
+BALRAMCHIN.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5141788087765395,random_forest
+BANDHANBNK.NS,India,Financial Services,2026-08-18,Down,0.5156673392057505,random_forest
+BANKBARODA.NS,India,Financial Services,2026-08-18,Down,0.5258187860617458,random_forest
+BANKINDIA.NS,India,Financial Services,2026-08-18,Down,0.5239952386596283,random_forest
+MAHABANK.NS,India,Financial Services,2026-08-18,Down,0.5255212008757301,random_forest
+BATAINDIA.NS,India,Consumer Durables,2026-08-18,Down,0.5312281207217331,random_forest
+BAYERCROP.NS,India,Chemicals,2026-08-18,Down,0.5200931674421345,random_forest
+BELRISE.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5010870545380823,random_forest
+BERGEPAINT.NS,India,Consumer Durables,2026-08-18,Down,0.5249164373144983,random_forest
+BDL.NS,India,Capital Goods,2026-08-18,Down,0.5296070281913825,random_forest
+BEL.NS,India,Capital Goods,2026-08-18,Down,0.5333025903983104,random_forest
+BHARATFORG.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5103141404755274,random_forest
+BHEL.NS,India,Capital Goods,2026-08-18,Down,0.5238452271292908,random_forest
+BPCL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5084897715426733,random_forest
+BHARTIARTL.NS,India,Telecommunication,2026-08-18,Down,0.5233535412209768,random_forest
+BHARTIHEXA.NS,India,Telecommunication,2026-08-18,Down,0.5146051586109566,random_forest
+BIKAJI.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5233343699838152,random_forest
+GROWW.NS,India,Financial Services,2026-08-18,Down,0.51058636550269,random_forest
+BIOCON.NS,India,Healthcare,2026-08-18,Down,0.5172365113685593,random_forest
+BSOFT.NS,India,Information Technology,2026-08-18,Down,0.5039154671312926,random_forest
+BLUEDART.NS,India,Services,2026-08-18,Down,0.5211566273391753,random_forest
+BLUEJET.NS,India,Healthcare,2026-08-18,Down,0.517585382468666,random_forest
+BLUESTARCO.NS,India,Consumer Durables,2026-08-18,Down,0.5166478098757892,random_forest
+BBTC.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5224631171774461,random_forest
+BOSCHLTD.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5086952360514934,random_forest
+FIRSTCRY.NS,India,Consumer Services,2026-08-18,Down,0.506751009518788,random_forest
+BRIGADE.NS,India,Realty,2026-08-18,Down,0.5252381919583498,random_forest
+BRITANNIA.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5230283172174965,random_forest
+MAPMYINDIA.NS,India,Information Technology,2026-08-18,Down,0.502447728350641,random_forest
+CCL.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5225555173727287,random_forest
+CESC.NS,India,Power,2026-08-18,Down,0.5188685723566777,random_forest
+CGPOWER.NS,India,Capital Goods,2026-08-18,Down,0.5274095817588409,random_forest
+CIEINDIA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5224788309122099,random_forest
+CRISIL.NS,India,Financial Services,2026-08-18,Down,0.5222563203571617,random_forest
+CANFINHOME.NS,India,Financial Services,2026-08-18,Down,0.5402580491860969,random_forest
+CANBK.NS,India,Financial Services,2026-08-18,Down,0.5245073421510765,random_forest
+CANHLIFE.NS,India,Financial Services,2026-08-18,Down,0.5158020066790799,random_forest
+CAPLIPOINT.NS,India,Healthcare,2026-08-18,Down,0.5089154074740949,random_forest
+CGCL.NS,India,Financial Services,2026-08-18,Down,0.5067764895158817,random_forest
+CARBORUNIV.NS,India,Capital Goods,2026-08-18,Down,0.5247916561936774,random_forest
+CARTRADE.NS,India,Consumer Services,2026-08-18,Down,0.5204547375374972,random_forest
+CASTROLIND.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5134127765946945,random_forest
+CEATLTD.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5357516270892189,random_forest
+CEMPRO.NS,India,Construction,2026-08-18,Down,0.5064319924193297,random_forest
+CENTRALBK.NS,India,Financial Services,2026-08-18,Down,0.5698920659820594,random_forest
+CDSL.NS,India,Financial Services,2026-08-18,Down,0.5298966846946707,random_forest
+CHALET.NS,India,Consumer Services,2026-08-18,Down,0.5248358525585267,random_forest
+CHAMBLFERT.NS,India,Chemicals,2026-08-18,Down,0.5264226270997666,random_forest
+CHENNPETRO.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5241096441884672,random_forest
+CHOICEIN.NS,India,Financial Services,2026-08-18,Down,0.5215102737489004,random_forest
+CHOLAHLDNG.NS,India,Financial Services,2026-08-18,Down,0.5233261849943778,random_forest
+CHOLAFIN.NS,India,Financial Services,2026-08-18,Down,0.5178953560593653,random_forest
+CIPLA.NS,India,Healthcare,2026-08-18,Down,0.5194562708466788,random_forest
+CUB.NS,India,Financial Services,2026-08-18,Down,0.5155671843969343,random_forest
+CLEAN.NS,India,Chemicals,2026-08-18,Down,0.5296833068501463,random_forest
+COALINDIA.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.529018881137963,random_forest
+COCHINSHIP.NS,India,Capital Goods,2026-08-18,Down,0.5271428517738428,random_forest
+COFORGE.NS,India,Information Technology,2026-08-18,Down,0.5210071130840193,random_forest
+COHANCE.NS,India,Healthcare,2026-08-18,Down,0.5172601874857847,random_forest
+COLPAL.NS,India,Fast Moving Consumer Goods,2026-08-18,Up,0.5022776098426898,random_forest
+CAMS.NS,India,Financial Services,2026-08-18,Down,0.5193856401466442,random_forest
+CONCORDBIO.NS,India,Healthcare,2026-08-18,Down,0.5179866866820892,random_forest
+CONCOR.NS,India,Services,2026-08-18,Down,0.5246397039511937,random_forest
+COROMANDEL.NS,India,Chemicals,2026-08-18,Down,0.522605821668282,random_forest
+CRAFTSMAN.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5174540724746963,random_forest
+CREDITACC.NS,India,Financial Services,2026-08-18,Down,0.5202237431515297,random_forest
+CROMPTON.NS,India,Consumer Durables,2026-08-18,Up,0.5048164923339449,random_forest
+CUMMINSIND.NS,India,Capital Goods,2026-08-18,Down,0.5207200767990925,random_forest
+CYIENT.NS,India,Information Technology,2026-08-18,Down,0.5284892098656485,random_forest
+DCMSHRIRAM.NS,India,Diversified,2026-08-18,Down,0.527217874397504,random_forest
+DLF.NS,India,Realty,2026-08-18,Down,0.5300845646173822,random_forest
+DOMS.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5212333247102207,random_forest
+DABUR.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5229465200746888,random_forest
+DALBHARAT.NS,India,Construction Materials,2026-08-18,Down,0.52403328861894,random_forest
+DATAPATTNS.NS,India,Capital Goods,2026-08-18,Down,0.5081415799472333,random_forest
+DEEPAKFERT.NS,India,Chemicals,2026-08-18,Down,0.5164603090879021,random_forest
+DEEPAKNTR.NS,India,Chemicals,2026-08-18,Down,0.5306340258830182,random_forest
+DELHIVERY.NS,India,Services,2026-08-18,Down,0.5204197247158282,random_forest
+DEVYANI.NS,India,Consumer Services,2026-08-18,Down,0.5333881110830059,random_forest
+DIVISLAB.NS,India,Healthcare,2026-08-18,Down,0.5242335453004474,random_forest
+DIXON.NS,India,Consumer Durables,2026-08-18,Down,0.5234697215225415,random_forest
+LALPATHLAB.NS,India,Healthcare,2026-08-18,Down,0.5217992792853718,random_forest
+DRREDDY.NS,India,Healthcare,2026-08-18,Down,0.5330893159121308,random_forest
+EIDPARRY.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5209502554115077,random_forest
+EIHOTEL.NS,India,Consumer Services,2026-08-18,Down,0.5106655607072406,random_forest
+EICHERMOT.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5260603806187465,random_forest
+ELECON.NS,India,Capital Goods,2026-08-18,Down,0.5265263269452569,random_forest
+ELGIEQUIP.NS,India,Capital Goods,2026-08-18,Down,0.5262273798555697,random_forest
+EMAMILTD.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.524634349390908,random_forest
+EMCURE.NS,India,Healthcare,2026-08-18,Down,0.5219566722404643,random_forest
+EMMVEE.NS,India,Capital Goods,2026-08-18,Down,0.5207934950984019,random_forest
+ENDURANCE.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5315397701486869,random_forest
+ENGINERSIN.NS,India,Construction,2026-08-18,Down,0.5155052561184845,random_forest
+ERIS.NS,India,Healthcare,2026-08-18,Down,0.5203570177190637,random_forest
+ESCORTS.NS,India,Capital Goods,2026-08-18,Down,0.5216664120752775,random_forest
+ETERNAL.NS,India,Consumer Services,2026-08-18,Down,0.5213635714419969,random_forest
+EXIDEIND.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5211608761325135,random_forest
+NYKAA.NS,India,Consumer Services,2026-08-18,Down,0.5169603852873019,random_forest
+FEDERALBNK.NS,India,Financial Services,2026-08-18,Down,0.5190795429692061,random_forest
+FACT.NS,India,Chemicals,2026-08-18,Down,0.5226245560703318,random_forest
+FINCABLES.NS,India,Capital Goods,2026-08-18,Down,0.5292261430104165,random_forest
+FSL.NS,India,Services,2026-08-18,Down,0.5014205136869365,random_forest
+FIVESTAR.NS,India,Financial Services,2026-08-18,Down,0.5170766887727967,random_forest
+FORCEMOT.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5276715577996329,random_forest
+FORTIS.NS,India,Healthcare,2026-08-18,Down,0.5159630122154284,random_forest
+GAIL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Up,0.5058135093725512,random_forest
+GVT&D.NS,India,Capital Goods,2026-08-18,Down,0.5325384314619013,random_forest
+GMRAIRPORT.NS,India,Services,2026-08-18,Up,0.5046193951075384,random_forest
+GABRIEL.NS,India,Automobile and Auto Components,2026-08-18,Down,0.511761892052446,random_forest
+GALLANTT.NS,India,Capital Goods,2026-08-18,Down,0.5249124052721158,random_forest
+GRSE.NS,India,Capital Goods,2026-08-18,Down,0.5170241528927007,random_forest
+GICRE.NS,India,Financial Services,2026-08-18,Down,0.5271732943364162,random_forest
+GILLETTE.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5210220785422508,random_forest
+GLAND.NS,India,Healthcare,2026-08-18,Down,0.5273904870591664,random_forest
+GLAXO.NS,India,Healthcare,2026-08-18,Down,0.5246721844143268,random_forest
+GLENMARK.NS,India,Healthcare,2026-08-18,Down,0.5313451665540961,random_forest
+MEDANTA.NS,India,Healthcare,2026-08-18,Down,0.5199456361263401,random_forest
+GODIGIT.NS,India,Financial Services,2026-08-18,Down,0.5135342350950572,random_forest
+GPIL.NS,India,Capital Goods,2026-08-18,Up,0.5001293330997304,random_forest
+GODFRYPHLP.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5164137878171389,random_forest
+GODREJCP.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.504489759004269,random_forest
+GODREJIND.NS,India,Diversified,2026-08-18,Down,0.5231569440201351,random_forest
+GODREJPROP.NS,India,Realty,2026-08-18,Down,0.5105058626472095,random_forest
+GRANULES.NS,India,Healthcare,2026-08-18,Down,0.5238257784250933,random_forest
+GRAPHITE.NS,India,Capital Goods,2026-08-18,Down,0.5319404029027132,random_forest
+GRASIM.NS,India,Construction Materials,2026-08-18,Down,0.5304597030692755,random_forest
+GRAVITA.NS,India,Metals & Mining,2026-08-18,Down,0.5314254109099714,random_forest
+GESHIP.NS,India,Services,2026-08-18,Down,0.5172217684846506,random_forest
+FLUOROCHEM.NS,India,Chemicals,2026-08-18,Down,0.5228362672798155,random_forest
+GMDCLTD.NS,India,Metals & Mining,2026-08-18,Down,0.5142739663137481,random_forest
+HEG.NS,India,Capital Goods,2026-08-18,Down,0.5173997106354575,random_forest
+HBLENGINE.NS,India,Capital Goods,2026-08-18,Down,0.5214171121636447,random_forest
+HCLTECH.NS,India,Information Technology,2026-08-18,Down,0.5198685904360345,random_forest
+HDBFS.NS,India,Financial Services,2026-08-18,Down,0.5269005256512884,random_forest
+HDFCAMC.NS,India,Financial Services,2026-08-18,Down,0.525186976495008,random_forest
+HDFCBANK.NS,India,Financial Services,2026-08-18,Down,0.5268193378872237,random_forest
+HDFCLIFE.NS,India,Financial Services,2026-08-18,Down,0.5280241879850079,random_forest
+HFCL.NS,India,Telecommunication,2026-08-18,Down,0.50719319937044,random_forest
+HAVELLS.NS,India,Consumer Durables,2026-08-18,Down,0.5342895464107069,random_forest
+HEROMOTOCO.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5306974750795825,random_forest
+HEXT.NS,India,Information Technology,2026-08-18,Down,0.5152752560301435,random_forest
+HSCL.NS,India,Chemicals,2026-08-18,Down,0.5239467322111953,random_forest
+HINDALCO.NS,India,Metals & Mining,2026-08-18,Down,0.5278024476972403,random_forest
+HAL.NS,India,Capital Goods,2026-08-18,Down,0.5320175533594396,random_forest
+HINDCOPPER.NS,India,Metals & Mining,2026-08-18,Down,0.5230102440715169,random_forest
+HINDPETRO.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5200328009372055,random_forest
+HINDUNILVR.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5213424712554222,random_forest
+HINDZINC.NS,India,Metals & Mining,2026-08-18,Down,0.5173133193794326,random_forest
+POWERINDIA.NS,India,Capital Goods,2026-08-18,Down,0.5388510901354684,random_forest
+HOMEFIRST.NS,India,Financial Services,2026-08-18,Down,0.5232521483641424,random_forest
+HONASA.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.520765864062575,random_forest
+HONAUT.NS,India,Capital Goods,2026-08-18,Down,0.5395410537732568,random_forest
+HUDCO.NS,India,Financial Services,2026-08-18,Down,0.5233725454056832,random_forest
+HYUNDAI.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5292745014740883,random_forest
+ICICIBANK.NS,India,Financial Services,2026-08-18,Down,0.5208426942531131,random_forest
+ICICIGI.NS,India,Financial Services,2026-08-18,Down,0.5314872276619529,random_forest
+ICICIAMC.NS,India,Financial Services,2026-08-18,Down,0.5307694562331235,random_forest
+ICICIPRULI.NS,India,Financial Services,2026-08-18,Down,0.5211559348516923,random_forest
+IDBI.NS,India,Financial Services,2026-08-18,Down,0.5308667461029013,random_forest
+IDFCFIRSTB.NS,India,Financial Services,2026-08-18,Down,0.520475979160391,random_forest
+IFCI.NS,India,Financial Services,2026-08-18,Down,0.5294173448047903,random_forest
+IIFL.NS,India,Financial Services,2026-08-18,Down,0.5289990034116518,random_forest
+IRB.NS,India,Construction,2026-08-18,Down,0.5285748649283567,random_forest
+IRCON.NS,India,Construction,2026-08-18,Down,0.5225901929815757,random_forest
+ITCHOTELS.NS,India,Consumer Services,2026-08-18,Down,0.5119484928690167,random_forest
+ITC.NS,India,Fast Moving Consumer Goods,2026-08-18,Up,0.5046277259851215,random_forest
+ITI.NS,India,Telecommunication,2026-08-18,Down,0.5277876464982546,random_forest
+INDGN.NS,India,Healthcare,2026-08-18,Down,0.5285482046821672,random_forest
+INDIACEM.NS,India,Construction Materials,2026-08-18,Down,0.516237279820402,random_forest
+INDIAMART.NS,India,Consumer Services,2026-08-18,Down,0.5298971562411768,random_forest
+INDIANB.NS,India,Financial Services,2026-08-18,Down,0.5330645403121741,random_forest
+IEX.NS,India,Financial Services,2026-08-18,Down,0.5178081264432204,random_forest
+INDHOTEL.NS,India,Consumer Services,2026-08-18,Down,0.5189901685590717,random_forest
+IOC.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Up,0.5064504568019301,random_forest
+IOB.NS,India,Financial Services,2026-08-18,Down,0.5458821976655959,random_forest
+IRCTC.NS,India,Consumer Services,2026-08-18,Down,0.5242951888468134,random_forest
+IRFC.NS,India,Financial Services,2026-08-18,Down,0.5436503773105749,random_forest
+IREDA.NS,India,Financial Services,2026-08-18,Down,0.5182977546403114,random_forest
+IGL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Up,0.5036856205637129,random_forest
+INDUSTOWER.NS,India,Telecommunication,2026-08-18,Down,0.5355581543088616,random_forest
+INDUSINDBK.NS,India,Financial Services,2026-08-18,Down,0.5209615697046976,random_forest
+NAUKRI.NS,India,Consumer Services,2026-08-18,Down,0.5275387983861484,random_forest
+INFY.NS,India,Information Technology,2026-08-18,Down,0.5169320960304228,random_forest
+INOXWIND.NS,India,Capital Goods,2026-08-18,Up,0.5186788678059344,random_forest
+INTELLECT.NS,India,Information Technology,2026-08-18,Down,0.5212217624420065,random_forest
+INDIGO.NS,India,Services,2026-08-18,Down,0.5214191250288176,random_forest
+IGIL.NS,India,Services,2026-08-18,Down,0.516924688201126,random_forest
+IKS.NS,India,Information Technology,2026-08-18,Down,0.5087859199276823,random_forest
+IPCALAB.NS,India,Healthcare,2026-08-18,Down,0.5169262957538755,random_forest
+JKCEMENT.NS,India,Construction Materials,2026-08-18,Down,0.5202683599549304,random_forest
+JBMA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5221262505940266,random_forest
+JKTYRE.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5192184706200396,random_forest
+JMFINANCIL.NS,India,Financial Services,2026-08-18,Down,0.5138279890190363,random_forest
+JSWCEMENT.NS,India,Construction Materials,2026-08-18,Up,0.5015872659748405,random_forest
+JSWDULUX.NS,India,Consumer Durables,2026-08-18,Down,0.5309710564861863,random_forest
+JSWENERGY.NS,India,Power,2026-08-18,Down,0.526100002246457,random_forest
+JSWINFRA.NS,India,Services,2026-08-18,Down,0.5141726828920463,random_forest
+JSWSTEEL.NS,India,Metals & Mining,2026-08-18,Down,0.5209143888248506,random_forest
+JAINREC.NS,India,Metals & Mining,2026-08-18,Down,0.5056892367025851,random_forest
+JPPOWER.NS,India,Power,2026-08-18,Down,0.5426388841333136,random_forest
+J&KBANK.NS,India,Financial Services,2026-08-18,Down,0.5064514814596259,random_forest
+JINDALSAW.NS,India,Capital Goods,2026-08-18,Down,0.5028896875234301,random_forest
+JSL.NS,India,Metals & Mining,2026-08-18,Down,0.5237093509256948,random_forest
+JINDALSTEL.NS,India,Metals & Mining,2026-08-18,Down,0.5294884714944083,random_forest
+JIOFIN.NS,India,Financial Services,2026-08-18,Down,0.5054419772133438,random_forest
+JUBLFOOD.NS,India,Consumer Services,2026-08-18,Down,0.5248119352971672,random_forest
+JUBLINGREA.NS,India,Chemicals,2026-08-18,Down,0.5217036844763598,random_forest
+JUBLPHARMA.NS,India,Healthcare,2026-08-18,Down,0.5087028812521467,random_forest
+JWL.NS,India,Capital Goods,2026-08-18,Up,0.5049279856861112,random_forest
+JYOTICNC.NS,India,Capital Goods,2026-08-18,Down,0.5123152757953641,random_forest
+KPRMILL.NS,India,Textiles,2026-08-18,Down,0.5376593675698413,random_forest
+KEI.NS,India,Capital Goods,2026-08-18,Down,0.5369179598165219,random_forest
+KPITTECH.NS,India,Information Technology,2026-08-18,Down,0.5249087319975548,random_forest
+KAJARIACER.NS,India,Consumer Durables,2026-08-18,Down,0.5322130604403934,random_forest
+KPIL.NS,India,Construction,2026-08-18,Down,0.5336029255143444,random_forest
+KALYANKJIL.NS,India,Consumer Durables,2026-08-18,Down,0.5137655697849179,random_forest
+KARURVYSYA.NS,India,Financial Services,2026-08-18,Down,0.5198761752189107,random_forest
+KAYNES.NS,India,Capital Goods,2026-08-18,Down,0.5198924895197932,random_forest
+KEC.NS,India,Construction,2026-08-18,Down,0.5229006530904214,random_forest
+KFINTECH.NS,India,Financial Services,2026-08-18,Down,0.5223849507814025,random_forest
+KIRLOSENG.NS,India,Capital Goods,2026-08-18,Down,0.5191397110610312,random_forest
+KOTAKBANK.NS,India,Financial Services,2026-08-18,Down,0.5243274383658169,random_forest
+KIMS.NS,India,Healthcare,2026-08-18,Down,0.5242267520818856,random_forest
+LTF.NS,India,Financial Services,2026-08-18,Down,0.5178140268665598,random_forest
+LTTS.NS,India,Information Technology,2026-08-18,Down,0.5219608257797432,random_forest
+LGEINDIA.NS,India,Consumer Durables,2026-08-18,Down,0.5229287343400669,random_forest
+LICHSGFIN.NS,India,Financial Services,2026-08-18,Down,0.5205538181823539,random_forest
+LTFOODS.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5300400571107458,random_forest
+LTM.NS,India,Information Technology,2026-08-18,Down,0.5031787977596491,random_forest
+LT.NS,India,Construction,2026-08-18,Down,0.5364251668632878,random_forest
+LATENTVIEW.NS,India,Information Technology,2026-08-18,Up,0.5034884304342936,random_forest
+LAURUSLABS.NS,India,Healthcare,2026-08-18,Down,0.5219170685664596,random_forest
+THELEELA.NS,India,Consumer Services,2026-08-18,Down,0.5300384303486497,random_forest
+LEMONTREE.NS,India,Consumer Services,2026-08-18,Down,0.5162628607581863,random_forest
+LENSKART.NS,India,Consumer Services,2026-08-18,Down,0.5386890202999755,random_forest
+LICI.NS,India,Financial Services,2026-08-18,Down,0.5242494967763152,random_forest
+LINDEINDIA.NS,India,Chemicals,2026-08-18,Down,0.5235723113456237,random_forest
+LLOYDSME.NS,India,Metals & Mining,2026-08-18,Down,0.5150770664345907,random_forest
+LODHA.NS,India,Realty,2026-08-18,Up,0.5052537347347502,random_forest
+LUPIN.NS,India,Healthcare,2026-08-18,Down,0.5161733605943621,random_forest
+MMTC.NS,India,Services,2026-08-18,Down,0.5016161409334317,random_forest
+MRF.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5536546367251486,random_forest
+MGL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5332018925524682,random_forest
+M&MFIN.NS,India,Financial Services,2026-08-18,Down,0.5034742458940815,random_forest
+M&M.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5250268004219387,random_forest
+MANAPPURAM.NS,India,Financial Services,2026-08-18,Down,0.5157811837674198,random_forest
+MRPL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5013423169293162,random_forest
+MANKIND.NS,India,Healthcare,2026-08-18,Down,0.5201501141791759,random_forest
+MARICO.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5191448550079125,random_forest
+MARUTI.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5278099515180603,random_forest
+MFSL.NS,India,Financial Services,2026-08-18,Down,0.5338550109079326,random_forest
+MAXHEALTH.NS,India,Healthcare,2026-08-18,Down,0.5191013337575642,random_forest
+MAZDOCK.NS,India,Capital Goods,2026-08-18,Down,0.5336146029386022,random_forest
+MEESHO.NS,India,Consumer Services,2026-08-18,Down,0.5142554483306228,random_forest
+MINDACORP.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5237766381615616,random_forest
+MSUMI.NS,India,Automobile and Auto Components,2026-08-18,Down,0.507201359232567,random_forest
+MOTILALOFS.NS,India,Financial Services,2026-08-18,Down,0.5225335383160452,random_forest
+MPHASIS.NS,India,Information Technology,2026-08-18,Down,0.5174862546784048,random_forest
+MCX.NS,India,Financial Services,2026-08-18,Down,0.5213208678846504,random_forest
+MUTHOOTFIN.NS,India,Financial Services,2026-08-18,Down,0.5230076555377562,random_forest
+NATCOPHARM.NS,India,Healthcare,2026-08-18,Down,0.5148383250530323,random_forest
+NBCC.NS,India,Construction,2026-08-18,Down,0.506227712253874,random_forest
+NCC.NS,India,Construction,2026-08-18,Down,0.5177726074819955,random_forest
+NHPC.NS,India,Power,2026-08-18,Down,0.5235387451317457,random_forest
+NLCINDIA.NS,India,Power,2026-08-18,Down,0.5061371369183358,random_forest
+NMDC.NS,India,Metals & Mining,2026-08-18,Up,0.506855574801801,random_forest
+NSLNISP.NS,India,Metals & Mining,2026-08-18,Up,0.5193931124713784,random_forest
+NTPCGREEN.NS,India,Power,2026-08-18,Down,0.5264731771185063,random_forest
+NTPC.NS,India,Power,2026-08-18,Down,0.5192214966018056,random_forest
+NH.NS,India,Healthcare,2026-08-18,Down,0.5150774508855369,random_forest
+NATIONALUM.NS,India,Metals & Mining,2026-08-18,Down,0.5160101464957856,random_forest
+NAVA.NS,India,Power,2026-08-18,Down,0.5274498365897122,random_forest
+NAVINFLUOR.NS,India,Chemicals,2026-08-18,Down,0.5251468582307064,random_forest
+NESTLEIND.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5219521275377248,random_forest
+NETWEB.NS,India,Information Technology,2026-08-18,Down,0.5232721516710652,random_forest
+NEULANDLAB.NS,India,Healthcare,2026-08-18,Down,0.5175763918274918,random_forest
+NEWGEN.NS,India,Information Technology,2026-08-18,Down,0.5112977055710609,random_forest
+NAM-INDIA.NS,India,Financial Services,2026-08-18,Down,0.5195201222146277,random_forest
+NIVABUPA.NS,India,Financial Services,2026-08-18,Down,0.5213000663291757,random_forest
+NUVAMA.NS,India,Financial Services,2026-08-18,Down,0.512013205930927,random_forest
+NUVOCO.NS,India,Construction Materials,2026-08-18,Down,0.5075262889808985,random_forest
+OBEROIRLTY.NS,India,Realty,2026-08-18,Down,0.5171262947691013,random_forest
+ONGC.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Up,0.5001636246231717,random_forest
+OIL.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5303006336792397,random_forest
+OLAELEC.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5070452256883385,random_forest
+OLECTRA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5161854925518693,random_forest
+PAYTM.NS,India,Financial Services,2026-08-18,Down,0.5244644265189571,random_forest
+ONESOURCE.NS,India,Healthcare,2026-08-18,Down,0.517160860632579,random_forest
+OFSS.NS,India,Information Technology,2026-08-18,Down,0.5259110319777641,random_forest
+POLICYBZR.NS,India,Financial Services,2026-08-18,Down,0.5308935079348303,random_forest
+PCBL.NS,India,Chemicals,2026-08-18,Down,0.5090103126837848,random_forest
+PGEL.NS,India,Consumer Durables,2026-08-18,Down,0.5061771209955881,random_forest
+PIIND.NS,India,Chemicals,2026-08-18,Down,0.5044575685508685,random_forest
+PNBHOUSING.NS,India,Financial Services,2026-08-18,Down,0.5338284906497505,random_forest
+PTCIL.NS,India,Capital Goods,2026-08-18,Down,0.5111909755540156,random_forest
+PVRINOX.NS,India,Media Entertainment & Publication,2026-08-18,Down,0.5371765840867135,random_forest
+PAGEIND.NS,India,Textiles,2026-08-18,Down,0.5305025899582966,random_forest
+PARADEEP.NS,India,Chemicals,2026-08-18,Up,0.5073779220953487,random_forest
+PATANJALI.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5265165105562006,random_forest
+PERSISTENT.NS,India,Information Technology,2026-08-18,Down,0.5191232452364906,random_forest
+PETRONET.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5103655312984535,random_forest
+PFIZER.NS,India,Healthcare,2026-08-18,Down,0.5218789926591547,random_forest
+PHOENIXLTD.NS,India,Realty,2026-08-18,Down,0.5262126922736297,random_forest
+PWL.NS,India,Consumer Services,2026-08-18,Down,0.5101817436726279,random_forest
+PIDILITIND.NS,India,Chemicals,2026-08-18,Down,0.529917328241666,random_forest
+PINELABS.NS,India,Financial Services,2026-08-18,Down,0.513551020467918,random_forest
+PIRAMALFIN.NS,India,Financial Services,2026-08-18,Down,0.5229558680679707,random_forest
+PPLPHARMA.NS,India,Healthcare,2026-08-18,Up,0.5012470693497941,random_forest
+POLYMED.NS,India,Healthcare,2026-08-18,Down,0.5135034896445299,random_forest
+POLYCAB.NS,India,Capital Goods,2026-08-18,Down,0.537138057061169,random_forest
+POONAWALLA.NS,India,Financial Services,2026-08-18,Down,0.5259657442836674,random_forest
+PFC.NS,India,Financial Services,2026-08-18,Down,0.5065819284116233,random_forest
+POWERGRID.NS,India,Power,2026-08-18,Down,0.5035840410107393,random_forest
+PREMIERENE.NS,India,Capital Goods,2026-08-18,Down,0.5238820728566799,random_forest
+PRESTIGE.NS,India,Realty,2026-08-18,Down,0.521727233666395,random_forest
+PFOCUS.NS,India,Media Entertainment & Publication,2026-08-18,Down,0.5042102867330899,random_forest
+PNB.NS,India,Financial Services,2026-08-18,Down,0.5249755071212504,random_forest
+RRKABEL.NS,India,Capital Goods,2026-08-18,Down,0.5217684843763,random_forest
+RBLBANK.NS,India,Financial Services,2026-08-18,Down,0.5284859964078272,random_forest
+RECLTD.NS,India,Financial Services,2026-08-18,Down,0.5049281784612243,random_forest
+RHIM.NS,India,Capital Goods,2026-08-18,Up,0.5001932694527029,random_forest
+RITES.NS,India,Construction,2026-08-18,Down,0.5194603940316576,random_forest
+RADICO.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5352540770496006,random_forest
+RVNL.NS,India,Construction,2026-08-18,Down,0.5289284287532539,random_forest
+RAILTEL.NS,India,Telecommunication,2026-08-18,Down,0.5180215474071874,random_forest
+RAINBOW.NS,India,Healthcare,2026-08-18,Down,0.5195714935183098,random_forest
+RKFORGE.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5265520700520187,random_forest
+REDINGTON.NS,India,Services,2026-08-18,Down,0.5159007134383177,random_forest
+RELIANCE.NS,India,Oil Gas & Consumable Fuels,2026-08-18,Down,0.5360256738010771,random_forest
+RPOWER.NS,India,Power,2026-08-18,Down,0.5370469036924038,random_forest
+SBFC.NS,India,Financial Services,2026-08-18,Down,0.5411901993337983,random_forest
+SBICARD.NS,India,Financial Services,2026-08-18,Up,0.5183613421653949,random_forest
+SBILIFE.NS,India,Financial Services,2026-08-18,Down,0.5202420229022493,random_forest
+SJVN.NS,India,Power,2026-08-18,Down,0.5339141180935532,random_forest
+SRF.NS,India,Chemicals,2026-08-18,Down,0.5291092687133554,random_forest
+SAGILITY.NS,India,Information Technology,2026-08-18,Up,0.500515832182052,random_forest
+SAILIFE.NS,India,Healthcare,2026-08-18,Down,0.526598110843192,random_forest
+SAMMAANCAP.NS,India,Financial Services,2026-08-18,Up,0.5027178111896817,random_forest
+MOTHERSON.NS,India,Automobile and Auto Components,2026-08-18,Down,0.511725889277062,random_forest
+SAPPHIRE.NS,India,Consumer Services,2026-08-18,Down,0.5333277735010493,random_forest
+SARDAEN.NS,India,Metals & Mining,2026-08-18,Down,0.5162221495587562,random_forest
+SAREGAMA.NS,India,Media Entertainment & Publication,2026-08-18,Down,0.5088176671844182,random_forest
+SCHAEFFLER.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5209612314695578,random_forest
+SCHNEIDER.NS,India,Capital Goods,2026-08-18,Up,0.503327997942666,random_forest
+SCI.NS,India,Services,2026-08-18,Down,0.5037864647899415,random_forest
+SHREECEM.NS,India,Construction Materials,2026-08-18,Down,0.521394992709012,random_forest
+SHRIRAMFIN.NS,India,Financial Services,2026-08-18,Down,0.5287814460066889,random_forest
+SHYAMMETL.NS,India,Capital Goods,2026-08-18,Down,0.5210310320113707,random_forest
+ENRIN.NS,India,Capital Goods,2026-08-18,Down,0.526152369335254,random_forest
+SIEMENS.NS,India,Capital Goods,2026-08-18,Down,0.5344416579001084,random_forest
+SIGNATURE.NS,India,Realty,2026-08-18,Down,0.5227595984345067,random_forest
+SOBHA.NS,India,Realty,2026-08-18,Down,0.5202664091853999,random_forest
+SOLARINDS.NS,India,Chemicals,2026-08-18,Down,0.519745538380186,random_forest
+SONACOMS.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5215098911702862,random_forest
+SONATSOFTW.NS,India,Information Technology,2026-08-18,Up,0.5122403676440418,random_forest
+STARHEALTH.NS,India,Financial Services,2026-08-18,Down,0.523317736809303,random_forest
+SBIN.NS,India,Financial Services,2026-08-18,Down,0.5295664852336999,random_forest
+SAIL.NS,India,Metals & Mining,2026-08-18,Up,0.5068377887089524,random_forest
+SUMICHEM.NS,India,Chemicals,2026-08-18,Down,0.5253681956733136,random_forest
+SUNPHARMA.NS,India,Healthcare,2026-08-18,Down,0.5144767665425316,random_forest
+SUNTV.NS,India,Media Entertainment & Publication,2026-08-18,Down,0.5328910881747682,random_forest
+SUNDARMFIN.NS,India,Financial Services,2026-08-18,Down,0.5203375660247562,random_forest
+SUPREMEIND.NS,India,Capital Goods,2026-08-18,Down,0.5354528105286167,random_forest
+SPLPETRO.NS,India,Chemicals,2026-08-18,Down,0.5172810133922003,random_forest
+SUZLON.NS,India,Capital Goods,2026-08-18,Up,0.510862531173218,random_forest
+SWANCORP.NS,India,Chemicals,2026-08-18,Down,0.5146496498186518,random_forest
+SWIGGY.NS,India,Consumer Services,2026-08-18,Down,0.5108749261553998,random_forest
+SYNGENE.NS,India,Healthcare,2026-08-18,Down,0.5250682120470584,random_forest
+SYRMA.NS,India,Capital Goods,2026-08-18,Down,0.5223440848087151,random_forest
+TBOTEK.NS,India,Consumer Services,2026-08-18,Down,0.5254704239858243,random_forest
+TVSMOTOR.NS,India,Automobile and Auto Components,2026-08-18,Down,0.522854645729207,random_forest
+TATACAP.NS,India,Financial Services,2026-08-18,Down,0.5164528994902885,random_forest
+TATACHEM.NS,India,Chemicals,2026-08-18,Down,0.5282300416408032,random_forest
+TATACOMM.NS,India,Telecommunication,2026-08-18,Down,0.522587317734901,random_forest
+TCS.NS,India,Information Technology,2026-08-18,Down,0.5167979989708488,random_forest
+TATACONSUM.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5216431208534722,random_forest
+TATAELXSI.NS,India,Information Technology,2026-08-18,Down,0.5301305309647668,random_forest
+TATAINVEST.NS,India,Financial Services,2026-08-18,Down,0.5210192851707625,random_forest
+TMCV.NS,India,Capital Goods,2026-08-18,Down,0.5352235537313716,random_forest
+TMPV.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5116926139306728,random_forest
+TATAPOWER.NS,India,Power,2026-08-18,Down,0.5334329298488684,random_forest
+TATASTEEL.NS,India,Metals & Mining,2026-08-18,Up,0.5063803343431691,random_forest
+TATATECH.NS,India,Information Technology,2026-08-18,Down,0.5205479807721473,random_forest
+TTML.NS,India,Telecommunication,2026-08-18,Down,0.5370633630131179,random_forest
+TECHM.NS,India,Information Technology,2026-08-18,Down,0.5209600196286426,random_forest
+TECHNOE.NS,India,Construction,2026-08-18,Down,0.5033869239453774,random_forest
+TEGA.NS,India,Capital Goods,2026-08-18,Down,0.5343463357478841,random_forest
+TEJASNET.NS,India,Telecommunication,2026-08-18,Down,0.5329159380933344,random_forest
+TENNIND.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5192991299445665,random_forest
+NIACL.NS,India,Financial Services,2026-08-18,Down,0.5196577679733667,random_forest
+RAMCOCEM.NS,India,Construction Materials,2026-08-18,Down,0.5224617163166112,random_forest
+THERMAX.NS,India,Capital Goods,2026-08-18,Down,0.5267310474667299,random_forest
+TIMKEN.NS,India,Capital Goods,2026-08-18,Down,0.5339937928536036,random_forest
+TITAGARH.NS,India,Capital Goods,2026-08-18,Down,0.5236264370148775,random_forest
+TITAN.NS,India,Consumer Durables,2026-08-18,Down,0.521398614489401,random_forest
+TORNTPHARM.NS,India,Healthcare,2026-08-18,Down,0.5220129187313169,random_forest
+TORNTPOWER.NS,India,Power,2026-08-18,Up,0.520841698948499,random_forest
+TARIL.NS,India,Capital Goods,2026-08-18,Down,0.5059575173902771,random_forest
+TRAVELFOOD.NS,India,Consumer Services,2026-08-18,Down,0.5218400621958204,random_forest
+TRENT.NS,India,Consumer Services,2026-08-18,Down,0.5228709435799568,random_forest
+TRIDENT.NS,India,Textiles,2026-08-18,Down,0.5040252009441255,random_forest
+TRITURBINE.NS,India,Capital Goods,2026-08-18,Down,0.5124847525243003,random_forest
+TIINDIA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5019179621833081,random_forest
+UCOBANK.NS,India,Financial Services,2026-08-18,Down,0.5551443540174779,random_forest
+UNOMINDA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5352201330637585,random_forest
+UPL.NS,India,Chemicals,2026-08-18,Down,0.52056212407165,random_forest
+UTIAMC.NS,India,Financial Services,2026-08-18,Down,0.5288760547053653,random_forest
+ULTRACEMCO.NS,India,Construction Materials,2026-08-18,Down,0.5225938556748883,random_forest
+UNIONBANK.NS,India,Financial Services,2026-08-18,Down,0.5182200662204046,random_forest
+UBL.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5204840686990485,random_forest
+UNITDSPR.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5240183576831143,random_forest
+URBANCO.NS,India,Consumer Services,2026-08-18,Down,0.5159213314832003,random_forest
+USHAMART.NS,India,Capital Goods,2026-08-18,Down,0.5222360141465812,random_forest
+VTL.NS,India,Textiles,2026-08-18,Down,0.5294427340856309,random_forest
+VBL.NS,India,Fast Moving Consumer Goods,2026-08-18,Down,0.5238211158022814,random_forest
+VEDL.NS,India,Metals & Mining,2026-08-18,Up,0.5040014588933363,random_forest
+VIJAYA.NS,India,Healthcare,2026-08-18,Down,0.5301240371748954,random_forest
+VMM.NS,India,Consumer Services,2026-08-18,Down,0.5102303884201531,random_forest
+IDEA.NS,India,Telecommunication,2026-08-18,Down,0.5193930771838919,random_forest
+VOLTAS.NS,India,Consumer Durables,2026-08-18,Down,0.5200301180052089,random_forest
+WAAREEENER.NS,India,Capital Goods,2026-08-18,Down,0.5274420771389309,random_forest
+WELCORP.NS,India,Capital Goods,2026-08-18,Down,0.5357169961155619,random_forest
+WELSPUNLIV.NS,India,Textiles,2026-08-18,Down,0.5206495518308805,random_forest
+WHIRLPOOL.NS,India,Consumer Durables,2026-08-18,Down,0.520843214376129,random_forest
+WIPRO.NS,India,Information Technology,2026-08-18,Up,0.5185171621466632,random_forest
+WOCKPHARMA.NS,India,Healthcare,2026-08-18,Down,0.5132969507411764,random_forest
+YESBANK.NS,India,Financial Services,2026-08-18,Down,0.5533266593833931,random_forest
+ZFCVINDIA.NS,India,Automobile and Auto Components,2026-08-18,Down,0.5359580552968527,random_forest
+ZEEL.NS,India,Media Entertainment & Publication,2026-08-18,Up,0.5059161120212321,random_forest
+ZENTEC.NS,India,Capital Goods,2026-08-18,Down,0.5168331526726961,random_forest
+ZENSARTECH.NS,India,Information Technology,2026-08-18,Down,0.5146139574689883,random_forest
+ZYDUSLIFE.NS,India,Healthcare,2026-08-18,Down,0.5144430080557858,random_forest
+ZYDUSWELL.NS,India,Fast Moving Consumer Goods,2026-08-18,Up,0.5029952005703429,random_forest
+ECLERX.NS,India,Services,2026-08-18,Down,0.5100944340988833,random_forest

@@ -1,0 +1,2 @@
+symbol,risk_category,risk_score,annualized_volatility,historical_var_95,sharpe_ratio,max_drawdown
+IBM,High,1.67,0.6296577648103378,0.03316615809138229,0.16371197337143292,0.37499620326215716
