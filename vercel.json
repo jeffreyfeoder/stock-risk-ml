@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "redirects": [
+    { "source": "/", "destination": "/dashboard/index.html" }
+  ]
+}
