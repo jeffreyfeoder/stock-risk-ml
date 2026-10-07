@@ -343,6 +343,18 @@
   .compare-col{min-width:0;}
   .compare-empty{padding:80px 20px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:16px;margin:30px 22px;}
 
+  .compare-summary-card{max-width:900px;margin:0 auto 28px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:26px 30px;}
+  .cmp-headrow,.cmp-row{display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:14px;align-items:center;}
+  .cmp-headrow{padding-bottom:10px;border-bottom:1px solid var(--line);margin-bottom:2px;}
+  .cmp-symhead{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:14px;text-align:center;}
+  .cmp-row{padding:12px 0;border-bottom:1px solid var(--line);}
+  .cmp-row:last-of-type{border-bottom:none;}
+  .cmp-label{font-size:13px;font-weight:700;}
+  .cmp-explain{font-size:11.5px;color:var(--muted);font-weight:400;margin-top:3px;line-height:1.45;}
+  .cmp-val{text-align:center;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13.5px;color:var(--muted);padding:7px 8px;border-radius:10px;}
+  .cmp-val.cmp-win{color:var(--ink);background:rgba(168,212,0,0.18);}
+  .cmp-verdict{margin-top:16px;padding-top:16px;border-top:1px solid var(--line);font-size:13.5px;line-height:1.55;}
+
   footer{background:var(--bg-dark);color:var(--muted-on-dark);padding:30px 0;font-size:12px;border-top:1px solid var(--line-on-dark);}
   footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;}
 
@@ -358,6 +370,9 @@
     .nav-links{display:none;}
     .compare-grid{grid-template-columns:1fr;}
     .compare-divider{display:none;}
+    .compare-summary-card{padding:18px;}
+    .cmp-headrow,.cmp-row{grid-template-columns:1.2fr 1fr 1fr;gap:6px;}
+    .cmp-explain{display:none;}
   }
 </style>
 </head>
@@ -583,6 +598,7 @@
       <div id="compareSuggestions" class="suggestions"></div>
     </div>
   </div>
+  <div class="wrap" id="compareSummary"></div>
   <div class="compare-grid">
     <div class="compare-col detail-compact" id="compareColA"></div>
     <div class="compare-divider"></div>
@@ -1442,19 +1458,19 @@ function renderOverview(){
 
 function interpretRSI(v){
   if(v == null) return 'No RSI data available.';
-  if(v >= 70) return `RSI ${v.toFixed(1)} — overbought territory (≥70).`;
-  if(v <= 30) return `RSI ${v.toFixed(1)} — oversold territory (≤30).`;
-  return `RSI ${v.toFixed(1)} — neutral range.`;
+  if(v >= 70) return `Currently ${v.toFixed(1)} — overbought territory (≥70): the stock has risen fast and may be due for a pullback.`;
+  if(v <= 30) return `Currently ${v.toFixed(1)} — oversold territory (≤30): the stock has fallen fast and may be due for a bounce.`;
+  return `Currently ${v.toFixed(1)} — neutral range (30–70), no strong momentum signal either way.`;
 }
 function interpretMACD(hist){
   if(hist == null) return 'No MACD data available.';
-  return hist > 0 ? `Histogram positive (${hist.toFixed(2)}) — bullish momentum.` : `Histogram negative (${hist.toFixed(2)}) — bearish momentum.`;
+  return hist > 0 ? `Histogram is positive (${hist.toFixed(2)}) — short-term momentum is running above the longer-term trend, a bullish signal.` : `Histogram is negative (${hist.toFixed(2)}) — short-term momentum is running below the longer-term trend, a bearish signal.`;
 }
 function interpretBB(close, upper, lower){
   if(close == null || upper == null || lower == null) return 'No Bollinger Band data available.';
-  if(close >= upper) return 'Price at/above the upper band — stretched to the upside.';
-  if(close <= lower) return 'Price at/below the lower band — stretched to the downside.';
-  return 'Price trading within its Bollinger Bands.';
+  if(close >= upper) return 'Price is at/above the upper band — trading high relative to its recent range.';
+  if(close <= lower) return 'Price is at/below the lower band — trading low relative to its recent range.';
+  return 'Price is trading inside its normal recent range, between the bands.';
 }
 function exchangeBadge(market){ return market === 'India' ? 'NSE' : 'US'; }
 
@@ -1492,19 +1508,19 @@ function detailPinButtonHTML(symbol){
 
 function interpretRSI(v){
   if(v == null) return 'No RSI data available.';
-  if(v >= 70) return `RSI ${v.toFixed(1)} — overbought territory (≥70).`;
-  if(v <= 30) return `RSI ${v.toFixed(1)} — oversold territory (≤30).`;
-  return `RSI ${v.toFixed(1)} — neutral range.`;
+  if(v >= 70) return `Currently ${v.toFixed(1)} — overbought territory (≥70): the stock has risen fast and may be due for a pullback.`;
+  if(v <= 30) return `Currently ${v.toFixed(1)} — oversold territory (≤30): the stock has fallen fast and may be due for a bounce.`;
+  return `Currently ${v.toFixed(1)} — neutral range (30–70), no strong momentum signal either way.`;
 }
 function interpretMACD(hist){
   if(hist == null) return 'No MACD data available.';
-  return hist > 0 ? `Histogram positive (${hist.toFixed(2)}) — bullish momentum.` : `Histogram negative (${hist.toFixed(2)}) — bearish momentum.`;
+  return hist > 0 ? `Histogram is positive (${hist.toFixed(2)}) — short-term momentum is running above the longer-term trend, a bullish signal.` : `Histogram is negative (${hist.toFixed(2)}) — short-term momentum is running below the longer-term trend, a bearish signal.`;
 }
 function interpretBB(close, upper, lower){
   if(close == null || upper == null || lower == null) return 'No Bollinger Band data available.';
-  if(close >= upper) return 'Price at/above the upper band — stretched to the upside.';
-  if(close <= lower) return 'Price at/below the lower band — stretched to the downside.';
-  return 'Price trading within its Bollinger Bands.';
+  if(close >= upper) return 'Price is at/above the upper band — trading high relative to its recent range.';
+  if(close <= lower) return 'Price is at/below the lower band — trading low relative to its recent range.';
+  return 'Price is trading inside its normal recent range, between the bands.';
 }
 function riskExplanations(risk){
   return {
@@ -1519,12 +1535,12 @@ function technicalIndicatorsHTML(latest){
   return `
     <div class="detail-subhead">Technical indicators (latest)</div>
     <div class="stat-grid" style="max-width:640px;margin:0 auto;">
-      <div class="stat-tile"><div class="stlabel">SMA 20 / 50</div><div class="stvalue">${fmtNum(latest.sma_20)} / ${fmtNum(latest.sma_50)}</div><div class="stexplain">Simple moving averages — price relative to its recent trend.</div></div>
-      <div class="stat-tile"><div class="stlabel">EMA 20</div><div class="stvalue">${fmtNum(latest.ema_20)}</div><div class="stexplain">Exponential moving average, weights recent days more heavily.</div></div>
-      <div class="stat-tile"><div class="stlabel">RSI (14)</div><div class="stvalue">${fmtNum(latest.rsi_14,1)}</div><div class="stexplain">${interpretRSI(latest.rsi_14)}</div></div>
-      <div class="stat-tile"><div class="stlabel">MACD histogram</div><div class="stvalue">${fmtNum(latest.macd_hist)}</div><div class="stexplain">${interpretMACD(latest.macd_hist)}</div></div>
-      <div class="stat-tile"><div class="stlabel">Bollinger Bands</div><div class="stvalue">${fmtNum(latest.bb_lower)} – ${fmtNum(latest.bb_upper)}</div><div class="stexplain">${interpretBB(latest.close, latest.bb_upper, latest.bb_lower)}</div></div>
-      <div class="stat-tile"><div class="stlabel">Volatility (20d)</div><div class="stvalue">${fmtPct(latest.volatility_20d)}</div><div class="stexplain">Annualized, from the trailing 20-day return std. dev.</div></div>
+      <div class="stat-tile"><div class="stlabel">SMA 20 / 50</div><div class="stvalue">${fmtNum(latest.sma_20)} / ${fmtNum(latest.sma_50)}</div><div class="stexplain"><b>What it is:</b> the average closing price over the last 20 and 50 days — smooths out daily noise to show the underlying trend. Price above both usually means an uptrend; below both, a downtrend.</div></div>
+      <div class="stat-tile"><div class="stlabel">EMA 20</div><div class="stvalue">${fmtNum(latest.ema_20)}</div><div class="stexplain"><b>What it is:</b> like the SMA, but weights recent days more heavily so it reacts faster to new price moves.</div></div>
+      <div class="stat-tile"><div class="stlabel">RSI (14)</div><div class="stvalue">${fmtNum(latest.rsi_14,1)}</div><div class="stexplain"><b>What it is:</b> a 0–100 momentum gauge of how fast and far the price has moved recently. ${interpretRSI(latest.rsi_14)}</div></div>
+      <div class="stat-tile"><div class="stlabel">MACD histogram</div><div class="stvalue">${fmtNum(latest.macd_hist)}</div><div class="stexplain"><b>What it is:</b> the gap between a fast and a slow moving average, used to spot shifts in momentum. ${interpretMACD(latest.macd_hist)}</div></div>
+      <div class="stat-tile"><div class="stlabel">Bollinger Bands</div><div class="stvalue">${fmtNum(latest.bb_lower)} – ${fmtNum(latest.bb_upper)}</div><div class="stexplain"><b>What it is:</b> a band plotted around the price using its recent volatility. ${interpretBB(latest.close, latest.bb_upper, latest.bb_lower)}</div></div>
+      <div class="stat-tile"><div class="stlabel">Volatility (20d)</div><div class="stvalue">${fmtPct(latest.volatility_20d)}</div><div class="stexplain"><b>What it is:</b> how much the price has swung recently, annualized from the trailing 20-day return std. dev. Higher means bigger, less predictable price moves — more short-term risk.</div></div>
     </div>`;
 }
 
@@ -1546,7 +1562,8 @@ function sentimentSectionHTML(symbol, sentiment){
     return `
       <div class="detail-subhead">News sentiment</div>
       <div class="detail-card" style="max-width:640px;">
-        <p style="color:var(--muted);font-size:13px;">No sentiment data cached yet for this ticker. Run <code>python -m src.sentiment --symbols ${symbol} --api_key YOUR_KEY</code> (or add <code>--use_sample</code> to try the pipeline offline).</p>
+        <p style="font-size:13px;line-height:1.5;"><b>What it is:</b> a score from -1 (very negative) to +1 (very positive) built from recent news headlines about ${symbol}, so you can see how the press is leaning without reading every article.</p>
+        <p style="color:var(--muted);font-size:12.5px;margin-top:10px;line-height:1.5;">Not available for ${symbol} yet — sentiment is fetched per ticker, separately from the main scan, and the free news API only allows 25 lookups a day, so it isn't cached for every stock. <span style="opacity:.75;">(To add it: <code>python -m src.sentiment --symbols ${symbol} --api_key YOUR_KEY</code>.)</span></p>
       </div>`;
   }
   const finbertRow = sentiment.finbert_available
@@ -1852,6 +1869,88 @@ async function showRelatedSuggestions(primarySymbol){
     + related.map(suggestionRowHTML).join('');
 }
 
+function riskCategoryRank(cat){ return cat==='Low' ? 0 : cat==='Medium' ? 1 : cat==='High' ? 2 : null; }
+
+/* One row of the compare summary: picks a winner by whichever value is "better"
+   (lower magnitude for risk metrics, higher for Sharpe), leaves it unmarked when
+   either side is missing or tied -- a missing winner reads as "no clear edge",
+   not as a bug. */
+function compareMetricRow(label, explain, valA, valB, fmt, better){
+  let winner = null;
+  if(valA != null && valB != null && valA !== valB){
+    winner = better === 'lower'
+      ? (Math.abs(valA) < Math.abs(valB) ? 'A' : 'B')
+      : (valA > valB ? 'A' : 'B');
+  }
+  return { label, explain, dispA: fmt(valA), dispB: fmt(valB), winner };
+}
+
+/* Simple side-by-side verdict shown above the two detail columns: who looks
+   lower-risk on each metric, plus a one-line tally. Needs both stocks' detail
+   data already fetched into state.detailCache (renderCompare awaits that first). */
+function buildCompareSummary(symA, symB){
+  if(!symA || !symB) return '';
+  const rowA = state.rows.find(r => r.symbol === symA);
+  const rowB = state.rows.find(r => r.symbol === symB);
+  const dataA = state.detailCache[symA];
+  const dataB = state.detailCache[symB];
+  if(!rowA || !rowB || !dataA || !dataB) return '';
+  const riskA = dataA.risk || {}, riskB = dataB.risk || {};
+  const predA = state.predictionsBySymbol[symA];
+  const predB = state.predictionsBySymbol[symB];
+
+  const rcA = riskCategoryRank(rowA.risk_category), rcB = riskCategoryRank(rowB.risk_category);
+  const rows = [
+    {
+      label: 'Risk category',
+      explain: 'Overall Low/Medium/High call, from volatility, VaR and drawdown combined.',
+      dispA: rowA.risk_category ? `<span class="badge badge-${rowA.risk_category}">${rowA.risk_category}</span>` : '—',
+      dispB: rowB.risk_category ? `<span class="badge badge-${rowB.risk_category}">${rowB.risk_category}</span>` : '—',
+      winner: (rcA != null && rcB != null && rcA !== rcB) ? (rcA < rcB ? 'A' : 'B') : null,
+    },
+    compareMetricRow('Annualized volatility', 'How much the price swings over a year — lower means steadier.', riskA.annualized_volatility, riskB.annualized_volatility, fmtPct, 'lower'),
+    compareMetricRow('Sharpe ratio', 'Return earned per unit of risk taken — higher means a better risk-adjusted payoff.', riskA.sharpe_ratio, riskB.sharpe_ratio, v => fmtNum(v), 'higher'),
+    compareMetricRow('Max drawdown', 'The worst peak-to-trough decline in the fetched history — smaller means less painful dips.', riskA.max_drawdown, riskB.max_drawdown, fmtPct, 'lower'),
+    {
+      label: 'Predicted next-day direction',
+      explain: "From the pooled ML model — one prediction, not a guarantee.",
+      dispA: predA ? `${predA.predicted_direction==='Up'?'▲':'▼'} ${predA.predicted_direction} · ${(predA.confidence*100).toFixed(0)}%` : '—',
+      dispB: predB ? `${predB.predicted_direction==='Up'?'▲':'▼'} ${predB.predicted_direction} · ${(predB.confidence*100).toFixed(0)}%` : '—',
+      winner: null,
+    },
+  ];
+
+  const riskRows = rows.slice(0, 4);
+  const winsA = riskRows.filter(r => r.winner === 'A').length;
+  const winsB = riskRows.filter(r => r.winner === 'B').length;
+  let verdict;
+  if(winsA === winsB){
+    verdict = `${symA} and ${symB} split the risk metrics evenly (${winsA}-${winsB}) — neither is a clear lower-risk pick on this data alone.`;
+  } else {
+    const leader = winsA > winsB ? symA : symB;
+    const other = winsA > winsB ? symB : symA;
+    const score = winsA > winsB ? `${winsA}-${winsB}` : `${winsB}-${winsA}`;
+    verdict = `${leader} looks lower-risk than ${other} on ${score} of the 4 risk metrics above.`;
+  }
+  verdict += ' This compares historical risk and one model\'s next-day call — not investment advice.';
+
+  return `
+    <div class="compare-summary-card">
+      <div class="cmp-headrow">
+        <div class="cmp-label">At a glance</div>
+        <div class="cmp-symhead">${symA}</div>
+        <div class="cmp-symhead">${symB}</div>
+      </div>
+      ${rows.map(r => `
+      <div class="cmp-row">
+        <div class="cmp-label">${r.label}<div class="cmp-explain">${r.explain}</div></div>
+        <div class="cmp-val ${r.winner==='A'?'cmp-win':''}">${r.dispA}</div>
+        <div class="cmp-val ${r.winner==='B'?'cmp-win':''}">${r.dispB}</div>
+      </div>`).join('')}
+      <div class="cmp-verdict">${verdict}</div>
+    </div>`;
+}
+
 async function renderCompare(symbols){
   const symA = symbols[0] || '';
   const symB = symbols[1] || '';
@@ -1862,6 +1961,8 @@ async function renderCompare(symbols){
   document.getElementById('compareSearch').value = '';
   comparePickSlot = !symA ? 'A' : (!symB ? 'B' : null);
   wireCompareSearch(symA, symB);
+  const summaryEl = document.getElementById('compareSummary');
+  summaryEl.innerHTML = '';
   if(needsPick){
     const primary = comparePickSlot === 'A' ? symB : symA;
     if(primary) showRelatedSuggestions(primary);
@@ -1871,6 +1972,7 @@ async function renderCompare(symbols){
   }
   await renderDetailInto('compareColA', symA, { compact:true, slot:'A', hideCompare:true });
   await renderDetailInto('compareColB', symB, { compact:true, slot:'B', hideCompare:true });
+  summaryEl.innerHTML = buildCompareSummary(symA, symB);
 }
 
 function openComparePicker(slot){
